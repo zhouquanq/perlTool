@@ -1,0 +1,7 @@
+[game_server_log]
+root = /GMServer/Release
+ext = log
+ftp_root = /data/log
+time = 3600
+delete = 1
+

@@ -1,0 +1,6 @@
+[game_server_log]
+root = /www/docs/gameparameters/data/logs/access
+ext = log
+ftp_root = /data/log
+time = 600
+delete = 1

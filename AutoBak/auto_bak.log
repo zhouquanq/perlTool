@@ -1,0 +1,735 @@
+[auto_bak.pl(39)][2017-11-16 18:07:15] cfg file: 'auto_bak.cfg' not exists! at auto_bak.pl line 39.
+[auto_bak.pl(30)][2017-11-16 18:07:15] 	| main::main
+[auto_bak.pl(39)][2017-11-16 18:09:20] cfg file: 'auto_bak.cfg' not exists! at auto_bak.pl line 39.
+[auto_bak.pl(30)][2017-11-16 18:09:20] 	| main::main
+[auto_bak.pl(355)][2017-11-16 18:11:23] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-16 18:11:23] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-16 18:11:23] 	| main::main
+[auto_bak.pl(355)][2017-11-16 18:11:26] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-16 18:11:26] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-16 18:11:26] 	| main::main
+[auto_bak.pl(355)][2017-11-16 18:11:29] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-16 18:11:29] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-16 18:11:29] 	| main::main
+[auto_bak.pl(355)][2017-11-16 18:11:32] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-16 18:11:32] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-16 18:11:32] 	| main::main
+[auto_bak.pl(355)][2017-11-17 10:11:24] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-17 10:11:24] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-17 10:11:24] 	| main::main
+[auto_bak.pl(355)][2017-11-17 10:11:27] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-17 10:11:27] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-17 10:11:27] 	| main::main
+[auto_bak.pl(355)][2017-11-17 10:11:30] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-17 10:11:30] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-17 10:11:30] 	| main::main
+[auto_bak.pl(355)][2017-11-17 10:11:33] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-17 10:11:33] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-17 10:11:33] 	| main::main
+[auto_bak.pl(355)][2017-11-17 10:11:36] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-17 10:11:36] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-17 10:11:36] 	| main::main
+[auto_bak.pl(355)][2017-11-17 10:11:39] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-17 10:11:39] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-17 10:11:39] 	| main::main
+[auto_bak.pl(355)][2017-11-17 10:11:42] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-17 10:11:42] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-17 10:11:42] 	| main::main
+[auto_bak.pl(355)][2017-11-17 10:11:45] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-17 10:11:45] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-17 10:11:45] 	| main::main
+[auto_bak.pl(355)][2017-11-17 10:11:48] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-17 10:11:48] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-17 10:11:48] 	| main::main
+[auto_bak.pl(355)][2017-11-17 10:11:51] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-17 10:11:51] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-17 10:11:51] 	| main::main
+[auto_bak.pl(355)][2017-11-17 10:11:54] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-17 10:11:54] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-17 10:11:54] 	| main::main
+[auto_bak.pl(355)][2017-11-17 10:11:57] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-17 10:11:57] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-17 10:11:57] 	| main::main
+[auto_bak.pl(355)][2017-11-17 10:12:00] Exiting subroutine via next at auto_bak.pl line 355.
+[auto_bak.pl(112)][2017-11-17 10:12:00] 	| main::log_backup
+[auto_bak.pl(30)][2017-11-17 10:12:00] 	| main::main
+[auto_bak.pl(167)][2017-11-17 10:23:04] Undefined subroutine &MysqlX::genConn called at auto_bak.pl line 167.
+[auto_bak.pl(97)][2017-11-17 10:23:04] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:23:04] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 10:34:32] DBI connect('database={_name_};host={_host_};port={_port_}','{_user_}',...) failed: Unknown MySQL server host '{_host_}' (110) at /GMTools//MysqlX.pm line 44.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 10:34:32] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 10:34:32] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(44)][2017-11-17 10:34:32] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 10:34:32] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 10:34:32] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:34:32] 	| main::main
+[/GMTools//MysqlX.pm(53)][2017-11-17 10:34:32] Can't connect to DBI:mysql:database={_name_};host={_host_};port={_port_}: Unknown MySQL server host '{_host_}' (110) at /GMTools//MysqlX.pm line 53.
+[auto_bak.pl(167)][2017-11-17 10:34:32] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 10:34:32] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:34:32] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 10:36:34] DBI connect('database={clearlog};host={127.0.0.1};port={3306}','{root}',...) failed: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 44.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 10:36:34] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 10:36:34] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(44)][2017-11-17 10:36:34] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 10:36:34] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 10:36:34] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:36:34] 	| main::main
+[/GMTools//MysqlX.pm(53)][2017-11-17 10:36:34] Can't connect to DBI:mysql:database={clearlog};host={127.0.0.1};port={3306}: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 53.
+[auto_bak.pl(167)][2017-11-17 10:36:34] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 10:36:34] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:36:34] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 10:38:54] DBI connect('database={clearlog};host={192.168.0.77};port={3306}','{root}',...) failed: Unknown MySQL server host '{192.168.0.77}' (110) at /GMTools//MysqlX.pm line 44.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 10:38:54] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 10:38:54] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(44)][2017-11-17 10:38:54] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 10:38:54] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 10:38:54] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:38:54] 	| main::main
+[/GMTools//MysqlX.pm(53)][2017-11-17 10:38:54] Can't connect to DBI:mysql:database={clearlog};host={192.168.0.77};port={3306}: Unknown MySQL server host '{192.168.0.77}' (110) at /GMTools//MysqlX.pm line 53.
+[auto_bak.pl(167)][2017-11-17 10:38:54] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 10:38:54] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:38:54] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 10:41:01] DBI connect('database={root};host={192.168.0.77};port={3306}','{clearlog}',...) failed: Unknown MySQL server host '{192.168.0.77}' (110) at /GMTools//MysqlX.pm line 44.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 10:41:01] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 10:41:01] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(44)][2017-11-17 10:41:01] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 10:41:01] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 10:41:01] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:41:01] 	| main::main
+[/GMTools//MysqlX.pm(53)][2017-11-17 10:41:01] Can't connect to DBI:mysql:database={root};host={192.168.0.77};port={3306}: Unknown MySQL server host '{192.168.0.77}' (110) at /GMTools//MysqlX.pm line 53.
+[auto_bak.pl(167)][2017-11-17 10:41:01] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 10:41:01] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:41:01] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 10:51:41] DBI connect('database={clearlog};host={127.0.0.1};port={3306}','{root}',...) failed: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 44.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 10:51:41] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 10:51:41] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(44)][2017-11-17 10:51:41] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 10:51:41] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 10:51:41] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:51:41] 	| main::main
+[/GMTools//MysqlX.pm(53)][2017-11-17 10:51:41] Can't connect to DBI:mysql:database={clearlog};host={127.0.0.1};port={3306}: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 53.
+[auto_bak.pl(167)][2017-11-17 10:51:41] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 10:51:41] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:51:41] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 10:54:27] DBI connect('database={clearlog};host={127.0.0.1};port={3306}','{root}',...) failed: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 44.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 10:54:27] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 10:54:27] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(44)][2017-11-17 10:54:27] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 10:54:27] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 10:54:27] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:54:27] 	| main::main
+[/GMTools//MysqlX.pm(53)][2017-11-17 10:54:27] Can't connect to DBI:mysql:database={clearlog};host={127.0.0.1};port={3306}: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 53.
+[auto_bak.pl(167)][2017-11-17 10:54:27] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 10:54:27] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:54:27] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 10:56:35] DBI connect('database={clearlog};host={127.0.0.1};port={3306}','{root}',...) failed: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 44.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 10:56:35] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 10:56:35] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(44)][2017-11-17 10:56:35] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 10:56:35] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 10:56:35] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:56:35] 	| main::main
+[/GMTools//MysqlX.pm(53)][2017-11-17 10:56:35] Can't connect to DBI:mysql:database={clearlog};host={127.0.0.1};port={3306}: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 53.
+[auto_bak.pl(167)][2017-11-17 10:56:35] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 10:56:35] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:56:35] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 10:58:17] DBI connect('database={clearlog};host={127.0.0.1};port={3306}','{root}',...) failed: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 44.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 10:58:17] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 10:58:17] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(44)][2017-11-17 10:58:17] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 10:58:17] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 10:58:17] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:58:17] 	| main::main
+[/GMTools//MysqlX.pm(53)][2017-11-17 10:58:17] Can't connect to DBI:mysql:database={clearlog};host={127.0.0.1};port={3306}: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 53.
+[auto_bak.pl(167)][2017-11-17 10:58:17] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 10:58:17] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 10:58:17] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:00:19] DBI connect('database={127.0.0.1};host={clearlog};port={3306}','{root}',...) failed: Unknown MySQL server host '{clearlog}' (110) at /GMTools//MysqlX.pm line 44.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:00:19] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:00:19] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(44)][2017-11-17 11:00:19] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:00:19] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:00:19] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:00:19] 	| main::main
+[/GMTools//MysqlX.pm(53)][2017-11-17 11:00:19] Can't connect to DBI:mysql:database={127.0.0.1};host={clearlog};port={3306}: Unknown MySQL server host '{clearlog}' (110) at /GMTools//MysqlX.pm line 53.
+[auto_bak.pl(167)][2017-11-17 11:00:19] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:00:19] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:00:19] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:01:39] DBI connect('database={test};host={127.0.0.1};port={3306}','{root}',...) failed: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 44.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:01:39] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:01:39] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(44)][2017-11-17 11:01:39] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:01:39] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:01:39] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:01:39] 	| main::main
+[/GMTools//MysqlX.pm(53)][2017-11-17 11:01:39] Can't connect to DBI:mysql:database={test};host={127.0.0.1};port={3306}: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 53.
+[auto_bak.pl(167)][2017-11-17 11:01:39] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:01:39] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:01:39] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:03:06] DBI connect('database={test};host={127.123.213.1};port={3306}','{root}',...) failed: Unknown MySQL server host '{127.123.213.1}' (110) at /GMTools//MysqlX.pm line 44.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:03:06] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:03:06] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(44)][2017-11-17 11:03:06] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:03:06] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:03:06] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:03:06] 	| main::main
+[/GMTools//MysqlX.pm(53)][2017-11-17 11:03:06] Can't connect to DBI:mysql:database={test};host={127.123.213.1};port={3306}: Unknown MySQL server host '{127.123.213.1}' (110) at /GMTools//MysqlX.pm line 53.
+[auto_bak.pl(167)][2017-11-17 11:03:06] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:03:06] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:03:06] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:07:47] DBI connect('database={test};host={localhost}','{root}',...) failed: Unknown MySQL server host '{localhost}' (110) at /GMTools//MysqlX.pm line 51.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:07:47] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:07:47] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(51)][2017-11-17 11:07:47] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:07:47] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:07:47] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:07:47] 	| main::main
+[/GMTools//MysqlX.pm(60)][2017-11-17 11:07:47] Can't connect to DBI:mysql:database={test};host={localhost}: Unknown MySQL server host '{localhost}' (110) at /GMTools//MysqlX.pm line 60.
+[auto_bak.pl(167)][2017-11-17 11:07:47] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:07:47] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:07:47] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:10:18] DBI connect('database={test};host','{root}',...) failed: Unknown MySQL server host 'host' (110) at /GMTools//MysqlX.pm line 51.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:10:18] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:10:18] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(51)][2017-11-17 11:10:18] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:10:18] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:10:18] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:10:18] 	| main::main
+[/GMTools//MysqlX.pm(60)][2017-11-17 11:10:18] Can't connect to DBI:mysql:database={test};host: Unknown MySQL server host 'host' (110) at /GMTools//MysqlX.pm line 60.
+[auto_bak.pl(167)][2017-11-17 11:10:18] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:10:18] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:10:18] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:13:04] DBI connect('database={test};host={localhost}','{root}',...) failed: Unknown MySQL server host '{localhost}' (110) at /GMTools//MysqlX.pm line 53.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:13:04] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:13:04] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(53)][2017-11-17 11:13:04] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:13:04] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:13:04] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:13:04] 	| main::main
+[/GMTools//MysqlX.pm(62)][2017-11-17 11:13:04] Can't connect to DBI:mysql:database={test};host={localhost}: Unknown MySQL server host '{localhost}' (110) at /GMTools//MysqlX.pm line 62.
+[auto_bak.pl(167)][2017-11-17 11:13:04] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:13:04] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:13:04] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:13:39] DBI connect('database={test};host={localhost}','{root}',...) failed: Unknown MySQL server host '{localhost}' (110) at /GMTools//MysqlX.pm line 51.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:13:39] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:13:39] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(51)][2017-11-17 11:13:39] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:13:39] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:13:39] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:13:39] 	| main::main
+[/GMTools//MysqlX.pm(53)][2017-11-17 11:13:39] Use of uninitialized value $conn in print at /GMTools//MysqlX.pm line 53.
+[auto_bak.pl(167)][2017-11-17 11:13:39] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:13:39] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:13:39] 	| main::main
+[/GMTools//MysqlX.pm(62)][2017-11-17 11:13:39] Can't connect to DBI:mysql:database={test};host={localhost}: Unknown MySQL server host '{localhost}' (110) at /GMTools//MysqlX.pm line 62.
+[auto_bak.pl(167)][2017-11-17 11:13:39] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:13:39] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:13:39] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:14:09] DBI connect('database={test};host={localhost}','{root}',...) failed: Unknown MySQL server host '{localhost}' (110) at /GMTools//MysqlX.pm line 51.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:14:09] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:14:09] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(51)][2017-11-17 11:14:09] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:14:09] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:14:09] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:14:09] 	| main::main
+[/GMTools//MysqlX.pm(51)][2017-11-17 11:14:09] Unknown MySQL server host '{localhost}' (110) at /GMTools//MysqlX.pm line 51.
+[auto_bak.pl(167)][2017-11-17 11:14:09] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:14:09] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:14:09] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:18:29] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:18:29] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:18:29] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:18:29] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:18:29] Fail:innobackupex --user=__DBROOTUSER__ --password=__DBROOTPASS__ --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:18:29] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:18:29] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:18:29] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:19:57] DBI connect('database={test}:host={localhost}','{root}',...) failed: Unknown MySQL server host '{localhost}' (110) at /GMTools//MysqlX.pm line 55.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:19:57] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:19:57] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(55)][2017-11-17 11:19:57] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:19:57] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:19:57] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:19:57] 	| main::main
+[/GMTools//MysqlX.pm(55)][2017-11-17 11:19:57] Unknown MySQL server host '{localhost}' (110) at /GMTools//MysqlX.pm line 55.
+[auto_bak.pl(167)][2017-11-17 11:19:57] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:19:57] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:19:57] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:21:26] DBI connect('database={test}:{127.0.0.1}','{root}',...) failed: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 55.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:21:26] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:21:26] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(55)][2017-11-17 11:21:26] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:21:26] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:21:26] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:21:26] 	| main::main
+[/GMTools//MysqlX.pm(55)][2017-11-17 11:21:26] Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 55.
+[auto_bak.pl(167)][2017-11-17 11:21:26] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:21:26] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:21:26] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:22:43] DBI connect('database={test}:{127.0.0.1}','{root}',...) failed: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 55.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:22:43] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:22:43] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(55)][2017-11-17 11:22:43] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:22:43] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:22:43] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:22:43] 	| main::main
+[/GMTools//MysqlX.pm(66)][2017-11-17 11:22:43] Can't connect to DBI:mysql:database={test}:{127.0.0.1}: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 66.
+[auto_bak.pl(167)][2017-11-17 11:22:43] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:22:43] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:22:43] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:24:03] DBI connect('database={test}:{127.0.0.1}','{root}',...) failed: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 55.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:24:03] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:24:03] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(55)][2017-11-17 11:24:03] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:24:03] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:24:03] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:24:03] 	| main::main
+[/GMTools//MysqlX.pm(66)][2017-11-17 11:24:03] Can't connect to DBI:mysql:database={test}:{127.0.0.1}: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 66.
+[auto_bak.pl(167)][2017-11-17 11:24:03] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:24:03] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:24:03] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:25:39] DBI connect('database={test}:{127.0.0.1}','{root}',...) failed: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 55.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:25:39] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:25:39] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(55)][2017-11-17 11:25:39] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:25:39] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:25:39] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:25:39] 	| main::main
+[/GMTools//MysqlX.pm(66)][2017-11-17 11:25:39] Can't connect to DBI:mysql:database={test}:{127.0.0.1}: Unknown MySQL server host '{127.0.0.1}' (110) at /GMTools//MysqlX.pm line 66.
+[auto_bak.pl(167)][2017-11-17 11:25:39] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:25:39] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:25:39] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:26:34] DBI connect('database={test}:{127.0.0.123}','{root}',...) failed: Unknown MySQL server host '{127.0.0.123}' (110) at /GMTools//MysqlX.pm line 55.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:26:34] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:26:34] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(55)][2017-11-17 11:26:34] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:26:34] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:26:34] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:26:34] 	| main::main
+[/GMTools//MysqlX.pm(66)][2017-11-17 11:26:34] Can't connect to DBI:mysql:database={test}:{127.0.0.123}: Unknown MySQL server host '{127.0.0.123}' (110) at /GMTools//MysqlX.pm line 66.
+[auto_bak.pl(167)][2017-11-17 11:26:34] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:26:34] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:26:34] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:27:16] DBI connect('database={test}:{127.0.0.123}','{root}',...) failed: Unknown MySQL server host '{127.0.0.123}' (110) at /GMTools//MysqlX.pm line 55.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:27:16] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:27:16] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(55)][2017-11-17 11:27:16] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:27:16] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:27:16] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:27:16] 	| main::main
+[/GMTools//MysqlX.pm(66)][2017-11-17 11:27:16] Can't connect to DBI:mysql:database={test}:{127.0.0.123}: Unknown MySQL server host '{127.0.0.123}' (110) at /GMTools//MysqlX.pm line 66.
+[auto_bak.pl(167)][2017-11-17 11:27:16] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:27:16] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:27:16] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:28:16] DBI connect('database={test}:{127.0.0.123}','{root}',...) failed: Unknown MySQL server host '{127.0.0.123}' (110) at /GMTools//MysqlX.pm line 55.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:28:16] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:28:16] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(55)][2017-11-17 11:28:16] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:28:16] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:28:16] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:28:16] 	| main::main
+[/GMTools//MysqlX.pm(57)][2017-11-17 11:28:16] Use of uninitialized value $conn in print at /GMTools//MysqlX.pm line 57.
+[auto_bak.pl(167)][2017-11-17 11:28:16] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:28:16] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:28:16] 	| main::main
+[/GMTools//MysqlX.pm(66)][2017-11-17 11:28:16] Can't connect to DBI:mysql:database={test}:{127.0.0.123}: Unknown MySQL server host '{127.0.0.123}' (110) at /GMTools//MysqlX.pm line 66.
+[auto_bak.pl(167)][2017-11-17 11:28:16] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:28:16] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:28:16] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:29:17] DBI connect('database={test}:{'localhost'}','{root}',...) failed: Unknown MySQL server host '{'localhost'}' (110) at /GMTools//MysqlX.pm line 55.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:29:17] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:29:17] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(55)][2017-11-17 11:29:17] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:29:17] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:29:17] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:29:17] 	| main::main
+[/GMTools//MysqlX.pm(57)][2017-11-17 11:29:17] Use of uninitialized value $conn in print at /GMTools//MysqlX.pm line 57.
+[auto_bak.pl(167)][2017-11-17 11:29:17] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:29:17] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:29:17] 	| main::main
+[/GMTools//MysqlX.pm(66)][2017-11-17 11:29:17] Can't connect to DBI:mysql:database={test}:{'localhost'}: Unknown MySQL server host '{'localhost'}' (110) at /GMTools//MysqlX.pm line 66.
+[auto_bak.pl(167)][2017-11-17 11:29:17] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:29:17] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:29:17] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:30:04] DBI connect('database=test:localhost','root',...) failed: Access denied for user 'root'@'localhost' (using password: YES) at /GMTools//MysqlX.pm line 55.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:30:04] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:30:04] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(55)][2017-11-17 11:30:04] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:30:04] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:30:04] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:30:04] 	| main::main
+[/GMTools//MysqlX.pm(57)][2017-11-17 11:30:04] Use of uninitialized value $conn in print at /GMTools//MysqlX.pm line 57.
+[auto_bak.pl(167)][2017-11-17 11:30:04] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:30:04] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:30:04] 	| main::main
+[/GMTools//MysqlX.pm(66)][2017-11-17 11:30:04] Can't connect to DBI:mysql:database=test:localhost: Access denied for user 'root'@'localhost' (using password: YES) at /GMTools//MysqlX.pm line 66.
+[auto_bak.pl(167)][2017-11-17 11:30:04] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:30:04] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:30:04] 	| main::main
+[auto_bak.pl(166)][2017-11-17 11:30:21] Odd number of elements in hash assignment at auto_bak.pl line 166.
+[auto_bak.pl(97)][2017-11-17 11:30:21] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:30:21] 	| main::main
+[/GMTools//MysqlX.pm(40)][2017-11-17 11:30:21] can not connect to database server at /GMTools//MysqlX.pm line 40.
+[auto_bak.pl(167)][2017-11-17 11:30:21] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:30:21] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:30:21] 	| main::main
+[auto_bak.pl(166)][2017-11-17 11:31:01] Odd number of elements in hash assignment at auto_bak.pl line 166.
+[auto_bak.pl(97)][2017-11-17 11:31:01] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:31:01] 	| main::main
+[/GMTools//MysqlX.pm(40)][2017-11-17 11:31:01] can not connect to database server at /GMTools//MysqlX.pm line 40.
+[auto_bak.pl(167)][2017-11-17 11:31:01] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:31:01] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:31:01] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:33:02] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:33:02] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:33:02] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:33:02] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:33:02] Fail:innobackupex --user=__DBROOTUSER__ --password=__DBROOTPASS__ --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:33:02] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:33:02] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:33:02] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:33:29] DBI connect('database=test:localhost','root',...) failed: Access denied for user 'root'@'localhost' (using password: YES) at /GMTools//MysqlX.pm line 55.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:33:29] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:33:29] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(55)][2017-11-17 11:33:29] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:33:29] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:33:29] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:33:29] 	| main::main
+[/GMTools//MysqlX.pm(57)][2017-11-17 11:33:29] Use of uninitialized value $conn in print at /GMTools//MysqlX.pm line 57.
+[auto_bak.pl(167)][2017-11-17 11:33:29] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:33:29] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:33:29] 	| main::main
+[/GMTools//MysqlX.pm(66)][2017-11-17 11:33:29] Can't connect to DBI:mysql:database=test:localhost: Access denied for user 'root'@'localhost' (using password: YES) at /GMTools//MysqlX.pm line 66.
+[auto_bak.pl(167)][2017-11-17 11:33:29] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:33:29] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:33:29] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:33:37] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:33:37] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:33:37] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:33:37] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:33:37] Fail:innobackupex --user=__DBROOTUSER__ --password=__DBROOTPASS__ --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:33:37] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:33:37] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:33:37] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:34:47] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:34:47] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:34:47] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:34:47] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:34:47] Fail:innobackupex --user=__DBROOTUSER__ --password=__DBROOTPASS__ --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:34:47] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:34:47] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:34:47] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:34:57] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:34:57] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:34:57] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:34:57] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:34:57] Fail:innobackupex --user=__DBROOTUSER__ --password=__DBROOTPASS__ --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:34:57] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:34:57] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:34:57] 	| main::main
+[/usr/share/perl5/vendor_perl/Carp.pm(102)][2017-11-17 11:36:27] DBI connect('database=test:localhost','root',...) failed: Access denied for user 'root'@'localhost' (using password: YES) at /GMTools//MysqlX.pm line 55.
+[/usr/local/lib64/perl5/DBI.pm(685)][2017-11-17 11:36:27] 	| Carp::carp
+[/usr/local/lib64/perl5/DBI.pm(740)][2017-11-17 11:36:27] 	| DBI::__ANON__
+[/GMTools//MysqlX.pm(55)][2017-11-17 11:36:27] 	| DBI::connect
+[auto_bak.pl(167)][2017-11-17 11:36:27] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:36:27] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:36:27] 	| main::main
+[/GMTools//MysqlX.pm(65)][2017-11-17 11:36:27] Can't connect to DBI:mysql:database=test:localhost: Access denied for user 'root'@'localhost' (using password: YES) at /GMTools//MysqlX.pm line 65.
+[auto_bak.pl(167)][2017-11-17 11:36:27] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 11:36:27] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:36:27] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:36:41] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:36:41] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:36:41] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:36:41] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:36:41] Fail:innobackupex --user=__DBROOTUSER__ --password=__DBROOTPASS__ --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:36:41] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:36:41] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:36:41] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:37:55] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:37:55] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:37:55] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:37:55] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:37:55] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:37:55] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:37:55] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:37:55] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:40:41] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:40:41] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:40:41] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:40:41] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:40:41] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:40:41] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:40:41] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:40:41] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:41:10] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:41:10] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:41:10] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:41:10] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:41:10] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:41:10] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:41:10] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:41:10] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:43:05] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:43:05] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:43:05] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:43:05] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:43:05] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:43:05] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:43:05] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:43:05] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:45:19] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:45:19] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:45:19] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:45:19] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:45:19] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:45:19] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:45:19] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:45:19] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:45:40] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:45:40] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:45:40] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:45:40] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:45:40] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:45:40] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:45:40] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:45:40] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:55:17] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:55:17] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:55:17] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:55:17] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:55:17] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:55:17] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:55:17] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:55:17] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:58:32] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:58:32] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:58:32] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:58:32] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:58:32] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/backup/config/3306.cnf /backup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:58:32] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:58:32] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:58:32] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:59:35] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:59:35] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:59:35] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:59:35] 	| main::main
+[auto_bak.pl(446)][2017-11-17 11:59:35] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/backup/config/3306.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 11:59:35] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 11:59:35] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 11:59:35] 	| main::main
+[auto_bak.pl(446)][2017-11-17 12:02:49] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 12:02:49] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 12:02:49] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 12:02:49] 	| main::main
+[auto_bak.pl(446)][2017-11-17 12:02:49] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/backup/config/3306.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 12:02:49] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 12:02:49] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 12:02:49] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:20:32] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:20:32] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:20:32] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:20:32] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:20:32] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/backup/config/3306.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:20:32] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:20:32] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:20:32] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:23:12] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:23:12] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:23:12] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:23:12] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:23:12] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/backup/config/3306.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:23:12] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:23:12] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:23:12] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:29:06] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:29:06] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:29:06] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:29:06] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:29:06] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/backup/config/3306.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:29:06] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:29:06] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:29:06] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:37:32] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:37:32] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:37:32] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:37:32] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:37:32] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/backup/config/3306.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:37:32] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:37:32] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:37:32] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:38:19] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:38:19] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:38:19] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:38:19] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:38:19] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/backup/config/3306.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:38:19] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:38:19] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:38:19] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:39:24] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:39:24] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:39:24] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:39:24] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:39:24] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/backup/config/3306.cnf /GMDBackup at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:39:24] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:39:24] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:39:24] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:44:55] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:44:55] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:44:55] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:44:55] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:44:55] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/backup/config/123.cnf /GMDBackup at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:44:55] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:44:55] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:44:55] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:49:29] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:49:29] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:49:29] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:49:29] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:49:29] Fail:innobackupex --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --defaults-file=/backup/config/3306.cnf /GMDBackup/ at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:49:29] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:49:29] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:49:29] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:55:14] Fail:GZIP="-9" tar -zcvf /GMDBackup/1510955714_full_1.tar.gz -C /GMDBackup full at auto_bak.pl line 446.
+[auto_bak.pl(179)][2017-11-17 13:55:14] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:55:14] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:55:14] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:56:56] Can't exec "innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:56:56] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:56:56] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:56:56] 	| main::main
+[auto_bak.pl(446)][2017-11-17 13:56:56] Fail:innobackupex --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 13:56:56] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 13:56:56] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 13:56:56] 	| main::main
+[auto_bak.pl(446)][2017-11-17 14:06:59] Can't exec "./innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 14:06:59] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 14:06:59] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 14:06:59] 	| main::main
+[auto_bak.pl(446)][2017-11-17 14:06:59] Fail:./innobackupex --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 14:06:59] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 14:06:59] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 14:06:59] 	| main::main
+[auto_bak.pl(446)][2017-11-17 14:45:18] Can't exec "./innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 14:45:18] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 14:45:18] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 14:45:18] 	| main::main
+[auto_bak.pl(446)][2017-11-17 14:45:18] Fail:./innobackupex --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 14:45:18] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 14:45:18] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 14:45:18] 	| main::main
+[auto_bak.pl(446)][2017-11-17 15:05:30] Can't exec "./innobackupex": No such file or directory at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 15:05:30] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 15:05:30] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 15:05:30] 	| main::main
+[auto_bak.pl(446)][2017-11-17 15:05:30] Fail:./innobackupex --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp --defaults-file=/etc/my.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 15:05:30] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 15:05:30] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 15:05:30] 	| main::main
+[auto_bak.pl(446)][2017-11-17 15:10:39] Fail:innobackupex --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp --defaults-file=/backup/config/3306.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 15:10:39] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 15:10:39] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 15:10:39] 	| main::main
+[auto_bak.pl(446)][2017-11-17 15:19:33] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 15:19:33] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 15:19:33] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 15:19:33] 	| main::main
+[auto_bak.pl(446)][2017-11-17 15:32:50] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 15:32:50] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 15:32:50] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 15:32:50] 	| main::main
+[auto_bak.pl(446)][2017-11-17 00:13:58] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 00:13:58] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 00:13:58] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 00:13:58] 	| main::main
+[auto_bak.pl(446)][2017-11-17 00:15:53] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 00:15:53] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 00:15:53] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 00:15:53] 	| main::main
+[auto_bak.pl(446)][2017-11-17 00:18:42] Fail:innobackupex --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp --defaults-file=/backup/config/3306.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 00:18:42] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 00:18:42] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 00:18:42] 	| main::main
+[auto_bak.pl(446)][2017-11-17 00:18:53] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 00:18:53] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 00:18:53] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 00:18:53] 	| main::main
+[auto_bak.pl(446)][2017-11-17 16:19:34] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 16:19:34] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 16:19:34] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:19:34] 	| main::main
+[auto_bak.pl(446)][2017-11-17 16:23:31] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 16:23:31] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 16:23:31] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:23:31] 	| main::main
+[auto_bak.pl(446)][2017-11-17 16:24:10] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 16:24:10] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 16:24:10] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:24:10] 	| main::main
+[auto_bak.pl(446)][2017-11-17 16:27:03] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=1234567 --host=localhost --port=3306 --no-lock --no-timestamp /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 16:27:03] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 16:27:03] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:27:03] 	| main::main
+[auto_bak.pl(166)][2017-11-17 16:27:22] Odd number of elements in hash assignment at auto_bak.pl line 166.
+[auto_bak.pl(97)][2017-11-17 16:27:22] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:27:22] 	| main::main
+[/GMTools//MysqlX.pm(40)][2017-11-17 16:27:22] can not connect to database server at /GMTools//MysqlX.pm line 40.
+[auto_bak.pl(167)][2017-11-17 16:27:22] 	| MysqlX::genConn
+[auto_bak.pl(97)][2017-11-17 16:27:22] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:27:22] 	| main::main
+[auto_bak.pl(446)][2017-11-17 16:27:29] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 16:27:29] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 16:27:29] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:27:29] 	| main::main
+[auto_bak.pl(446)][2017-11-17 16:30:46] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 16:30:46] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 16:30:46] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:30:46] 	| main::main
+[auto_bak.pl(446)][2017-11-17 16:31:11] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 16:31:11] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 16:31:11] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:31:11] 	| main::main
+[auto_bak.pl(446)][2017-11-17 16:31:43] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 16:31:43] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 16:31:43] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:31:43] 	| main::main
+[auto_bak.pl(446)][2017-11-17 16:38:27] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 16:38:27] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 16:38:27] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:38:27] 	| main::main
+[auto_bak.pl(446)][2017-11-17 16:38:58] Fail:innobackupex --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp --defaults-file=/backup/config/3306.cnf /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 16:38:58] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 16:38:58] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:38:58] 	| main::main
+[auto_bak.pl(446)][2017-11-17 16:39:14] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 16:39:14] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 16:39:14] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:39:14] 	| main::main
+[auto_bak.pl(446)][2017-11-17 16:40:18] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=localhost --port=3306 --no-lock --no-timestamp /GMDBackup/full at auto_bak.pl line 446.
+[auto_bak.pl(175)][2017-11-17 16:40:18] 	| main::diecmd
+[auto_bak.pl(97)][2017-11-17 16:40:18] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:40:18] 	| main::main
+[/GMTools//MysqlX.pm(427)][2017-11-17 16:41:50] DBD::mysql::st execute failed: Table 'test.admin_autobak' doesn't exist at /GMTools//MysqlX.pm line 427.
+[/GMTools//MysqlX.pm(105)][2017-11-17 16:41:50] 	| MysqlX::_execute
+[auto_bak.pl(203)][2017-11-17 16:41:50] 	| MysqlX::insert
+[auto_bak.pl(97)][2017-11-17 16:41:50] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:41:50] 	| main::main
+[/GMTools//MysqlX.pm(430)][2017-11-17 16:41:50] execute sqlstatement 
+		insert into `admin_autobak`( `aab_md5`, `aab_filename`, `aab_bakid`, `aab_servertype`) values( '17e04ff64e58e59e1b927e127d38af9e', '1510965709_full_1.tar.gz', '1', 'ga')
+	 error:Table 'test.admin_autobak' doesn't exist at /GMTools//MysqlX.pm line 430.
+[/GMTools//MysqlX.pm(105)][2017-11-17 16:41:50] 	| MysqlX::_execute
+[auto_bak.pl(203)][2017-11-17 16:41:50] 	| MysqlX::insert
+[auto_bak.pl(97)][2017-11-17 16:41:50] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:41:50] 	| main::main
+[/GMTools//MysqlX.pm(427)][2017-11-17 16:46:38] DBD::mysql::st execute failed: Table 'test.admin_autobak' doesn't exist at /GMTools//MysqlX.pm line 427.
+[/GMTools//MysqlX.pm(105)][2017-11-17 16:46:38] 	| MysqlX::_execute
+[auto_bak.pl(203)][2017-11-17 16:46:38] 	| MysqlX::insert
+[auto_bak.pl(97)][2017-11-17 16:46:38] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:46:38] 	| main::main
+[/GMTools//MysqlX.pm(430)][2017-11-17 16:46:38] execute sqlstatement 
+		insert into `admin_autobak`( `aab_md5`, `aab_filename`, `aab_bakid`, `aab_servertype`) values( '9a1b9f3f33e689b0967714c05db072f9', '1510965997_full_1.tar.gz', '1', 'ga')
+	 error:Table 'test.admin_autobak' doesn't exist at /GMTools//MysqlX.pm line 430.
+[/GMTools//MysqlX.pm(105)][2017-11-17 16:46:38] 	| MysqlX::_execute
+[auto_bak.pl(203)][2017-11-17 16:46:38] 	| MysqlX::insert
+[auto_bak.pl(97)][2017-11-17 16:46:38] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-17 16:46:38] 	| main::main

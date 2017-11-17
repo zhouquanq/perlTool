@@ -1,0 +1,21 @@
+[mysql_inno_backup]
+dbconfigfile =
+dbackport  =
+dbackupath = /GMDBackup
+dbuser = __DBROOTUSER__ 
+dbpass = __DBROOTPASS__ 
+ftp_root = /data/db
+interval = 1800
+
+[game_server_log]
+root = /GMServer/Release
+ext = log
+ftp_root = /data/log
+time = 3600
+delete = 1
+
+[web_backup]
+web_path = /www/docs
+ftp_path = /data/website
+web_dirs = bbs.moby.hk, bbs.ta.cn, m.moby.hk, moby.hk, wap.ta.cn, www.feiyuhd.com, www.ta.cn, www.ta.cn.new, zs.ta.cn
+interval = 25200

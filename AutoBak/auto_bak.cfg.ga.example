@@ -1,0 +1,25 @@
+[mysql_backup_info]
+fullback_interval =1200
+backfile_srcdb = host,{_host_}, port,{_port_}, user,{_user_}, name,{_name_},  pass,{_pass_}
+
+[mysql_inno_backup]
+dbconfigfile =
+dbackport  =
+dbackupath = /GMDBackup
+dbuser = __DBROOTUSER__ 
+dbpass = __DBROOTPASS__ 
+ftp_root = /data/db
+interval = 1800
+fullback_id = 1
+servertype =ga
+
+[mysql_inno_backup]
+dbconfigfile =
+dbackport  =
+dbackupath = /GMDBackup2
+dbuser = __DBROOTUSER__ 
+dbpass = __DBROOTPASS__ 
+ftp_root = /data/db
+interval = 1800
+fullback_id = 2
+servertype =ga
