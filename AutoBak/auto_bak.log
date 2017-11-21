@@ -733,3 +733,89 @@
 [auto_bak.pl(203)][2017-11-17 16:46:38] 	| MysqlX::insert
 [auto_bak.pl(97)][2017-11-17 16:46:38] 	| main::dbackup2
 [auto_bak.pl(30)][2017-11-17 16:46:38] 	| main::main
+[/GMTools//MysqlX.pm(427)][2017-11-20 11:33:15] DBD::mysql::st execute failed: Table 'test.admin_autobak' doesn't exist at /GMTools//MysqlX.pm line 427.
+[/GMTools//MysqlX.pm(105)][2017-11-20 11:33:15] 	| MysqlX::_execute
+[auto_bak.pl(203)][2017-11-20 11:33:15] 	| MysqlX::insert
+[auto_bak.pl(97)][2017-11-20 11:33:15] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-20 11:33:15] 	| main::main
+[/GMTools//MysqlX.pm(430)][2017-11-20 11:33:15] execute sqlstatement 
+		insert into `admin_autobak`( `aab_md5`, `aab_filename`, `aab_bakid`, `aab_servertype`) values( 'a9cc23ded601cf6e9851efeadcd53dd1', '1511206388_full_1.tar.gz', '1', 'ga')
+	 error:Table 'test.admin_autobak' doesn't exist at /GMTools//MysqlX.pm line 430.
+[/GMTools//MysqlX.pm(105)][2017-11-20 11:33:15] 	| MysqlX::_execute
+[auto_bak.pl(203)][2017-11-20 11:33:15] 	| MysqlX::insert
+[auto_bak.pl(97)][2017-11-20 11:33:15] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-20 11:33:15] 	| main::main
+[/GMTools//MysqlX.pm(427)][2017-11-20 11:45:43] DBD::mysql::st execute failed: Table 'test.admin_autobak' doesn't exist at /GMTools//MysqlX.pm line 427.
+[/GMTools//MysqlX.pm(105)][2017-11-20 11:45:43] 	| MysqlX::_execute
+[auto_bak.pl(203)][2017-11-20 11:45:43] 	| MysqlX::insert
+[auto_bak.pl(97)][2017-11-20 11:45:43] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-20 11:45:43] 	| main::main
+[/GMTools//MysqlX.pm(430)][2017-11-20 11:45:43] execute sqlstatement 
+		insert into `admin_autobak`( `aab_md5`, `aab_filename`, `aab_bakid`, `aab_servertype`) values( '6271f209b1afad797d867fa9c5a81817', '1511149542_full_1.tar.gz', '1', 'ga')
+	 error:Table 'test.admin_autobak' doesn't exist at /GMTools//MysqlX.pm line 430.
+[/GMTools//MysqlX.pm(105)][2017-11-20 11:45:43] 	| MysqlX::_execute
+[auto_bak.pl(203)][2017-11-20 11:45:43] 	| MysqlX::insert
+[auto_bak.pl(97)][2017-11-20 11:45:43] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-20 11:45:43] 	| main::main
+[/GMTools//MysqlX.pm(427)][2017-11-20 15:14:56] DBD::mysql::st execute failed: Table 'test.admin_autobak' doesn't exist at /GMTools//MysqlX.pm line 427.
+[/GMTools//MysqlX.pm(105)][2017-11-20 15:14:56] 	| MysqlX::_execute
+[auto_bak.pl(203)][2017-11-20 15:14:56] 	| MysqlX::insert
+[auto_bak.pl(97)][2017-11-20 15:14:56] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-20 15:14:56] 	| main::main
+[/GMTools//MysqlX.pm(430)][2017-11-20 15:14:56] execute sqlstatement 
+		insert into `admin_autobak`( `aab_md5`, `aab_filename`, `aab_bakid`, `aab_servertype`) values( '256f37b32dfe26886591105db3e685bd', '1511162080_full_1.tar.gz', '1', 'ga')
+	 error:Table 'test.admin_autobak' doesn't exist at /GMTools//MysqlX.pm line 430.
+[/GMTools//MysqlX.pm(105)][2017-11-20 15:14:56] 	| MysqlX::_execute
+[auto_bak.pl(203)][2017-11-20 15:14:56] 	| MysqlX::insert
+[auto_bak.pl(97)][2017-11-20 15:14:56] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-20 15:14:56] 	| main::main
+[/GMTools//MysqlX.pm(427)][2017-11-20 16:03:20] DBD::mysql::st execute failed: Table 'test.admin_autobak' doesn't exist at /GMTools//MysqlX.pm line 427.
+[/GMTools//MysqlX.pm(105)][2017-11-20 16:03:20] 	| MysqlX::_execute
+[auto_bak.pl(203)][2017-11-20 16:03:20] 	| MysqlX::insert
+[auto_bak.pl(97)][2017-11-20 16:03:20] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-20 16:03:20] 	| main::main
+[/GMTools//MysqlX.pm(430)][2017-11-20 16:03:20] execute sqlstatement 
+		insert into `admin_autobak`( `aab_md5`, `aab_filename`, `aab_bakid`, `aab_servertype`) values( '568421898c07f4500fc5bfe184b7dde8', '1511164985_full_1.tar.gz', '1', 'ga')
+	 error:Table 'test.admin_autobak' doesn't exist at /GMTools//MysqlX.pm line 430.
+[/GMTools//MysqlX.pm(105)][2017-11-20 16:03:20] 	| MysqlX::_execute
+[auto_bak.pl(203)][2017-11-20 16:03:20] 	| MysqlX::insert
+[auto_bak.pl(97)][2017-11-20 16:03:20] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-20 16:03:20] 	| main::main
+[/GMTools//MysqlX.pm(427)][2017-11-21 14:21:19] DBD::mysql::st execute failed: Table 'test.admin_autobak' doesn't exist at /GMTools//MysqlX.pm line 427.
+[/GMTools//MysqlX.pm(105)][2017-11-21 14:21:19] 	| MysqlX::_execute
+[auto_bak.pl(207)][2017-11-21 14:21:19] 	| MysqlX::insert
+[auto_bak.pl(100)][2017-11-21 14:21:19] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-21 14:21:19] 	| main::main
+[/GMTools//MysqlX.pm(430)][2017-11-21 14:21:19] execute sqlstatement 
+		insert into `admin_autobak`( `aab_md5`, `aab_filename`, `aab_bakid`, `aab_servertype`) values( '0333fd14b4a69db0146a7093b4562ec7', '1511245276_full_1.tar.gz', '1', 'ga')
+	 error:Table 'test.admin_autobak' doesn't exist at /GMTools//MysqlX.pm line 430.
+[/GMTools//MysqlX.pm(105)][2017-11-21 14:21:19] 	| MysqlX::_execute
+[auto_bak.pl(207)][2017-11-21 14:21:19] 	| MysqlX::insert
+[auto_bak.pl(100)][2017-11-21 14:21:19] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-21 14:21:19] 	| main::main
+[auto_bak.pl(95)][2017-11-21 14:22:14] cfg of fullback_id is null!
+[auto_bak.pl(30)][2017-11-21 14:22:14] 	| main::main
+[auto_bak.pl(450)][2017-11-21 14:25:06] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --incremental --incremental-basedir=/GMDBackup/full /GMDBackup/1511245506_inc_1 at auto_bak.pl line 450.
+[auto_bak.pl(234)][2017-11-21 14:25:06] 	| main::diecmd
+[auto_bak.pl(100)][2017-11-21 14:25:06] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-21 14:25:06] 	| main::main
+[/GMTools//MysqlX.pm(427)][2017-11-21 14:25:27] DBD::mysql::st execute failed: Table 'test.admin_autobak' doesn't exist at /GMTools//MysqlX.pm line 427.
+[/GMTools//MysqlX.pm(105)][2017-11-21 14:25:27] 	| MysqlX::_execute
+[auto_bak.pl(257)][2017-11-21 14:25:27] 	| MysqlX::insert
+[auto_bak.pl(100)][2017-11-21 14:25:27] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-21 14:25:27] 	| main::main
+[/GMTools//MysqlX.pm(430)][2017-11-21 14:25:27] execute sqlstatement 
+		insert into `admin_autobak`( `aab_md5`, `aab_filename`, `aab_bakid`, `aab_servertype`) values( 'a4068bf95c2528dd12bb3ab0f972c263', '1511245521_inc_1.tar.gz', '1', 'ga')
+	 error:Table 'test.admin_autobak' doesn't exist at /GMTools//MysqlX.pm line 430.
+[/GMTools//MysqlX.pm(105)][2017-11-21 14:25:27] 	| MysqlX::_execute
+[auto_bak.pl(257)][2017-11-21 14:25:27] 	| MysqlX::insert
+[auto_bak.pl(100)][2017-11-21 14:25:27] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-21 14:25:27] 	| main::main
+[auto_bak.pl(95)][2017-11-21 14:27:21] cfg of fullback_id is null!
+[auto_bak.pl(30)][2017-11-21 14:27:21] 	| main::main
+[auto_bak.pl(95)][2017-11-21 14:27:43] cfg of fullback_id is null!
+[auto_bak.pl(30)][2017-11-21 14:27:43] 	| main::main
+[auto_bak.pl(450)][2017-11-21 14:29:52] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --incremental --incremental-basedir=/GMDBackup/1511245783_inc_ /GMDBackup/1511245792_inc_ at auto_bak.pl line 450.
+[auto_bak.pl(234)][2017-11-21 14:29:52] 	| main::diecmd
+[auto_bak.pl(100)][2017-11-21 14:29:52] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-21 14:29:52] 	| main::main

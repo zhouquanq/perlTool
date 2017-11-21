@@ -1,0 +1,524 @@
+[2017-11-20 11:58:50][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 11:58:50][ftp_load.pl(82)] error: no such file /GMTools/FileUpload/config.ini at ftp_load.pl line 96.
+[2017-11-20 13:48:04][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 13:48:04][ftp_load.pl(82)] error: no such file /GMTools/FileUpload/config.ini at ftp_load.pl line 96.
+[2017-11-20 13:50:45][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 13:50:47][ftp_load.pl(198)] FTP connect false!
+[2017-11-20 13:51:48][ftp_load.pl(198)] FTP connect false!
+[2017-11-20 13:52:49][ftp_load.pl(198)] FTP connect false!
+[2017-11-20 13:53:50][ftp_load.pl(198)] FTP connect false!
+[2017-11-20 13:54:51][ftp_load.pl(198)] FTP connect false!
+[2017-11-20 13:55:52][ftp_load.pl(198)] FTP connect false!
+[2017-11-20 13:56:53][ftp_load.pl(198)] FTP connect false!
+[2017-11-20 13:57:54][ftp_load.pl(198)] FTP connect false!
+[2017-11-20 13:58:55][ftp_load.pl(198)] FTP connect false!
+[2017-11-20 13:59:14][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 13:59:23][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 13:59:23][ftp_load.pl(65)] warn: Use of uninitialized value in addition (+) at /opt/ActivePerl-5.14/lib/Net/FTP.pm line 1097.
+[2017-11-20 13:59:23][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/Cmd.pm(353) Net::FTP::parse_response
+[2017-11-20 13:59:23][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/FTP.pm(1080) Net::Cmd::response
+[2017-11-20 13:59:23][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/FTP.pm(108) Net::FTP::response
+[2017-11-20 13:59:23][ftp_load.pl(70)]  callby ftp_load.pl(196) Net::FTP::new
+[2017-11-20 13:59:23][ftp_load.pl(70)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 13:59:23][ftp_load.pl(70)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 13:59:23][ftp_load.pl(65)] warn: Use of uninitialized value $code in substr at /opt/ActivePerl-5.14/lib/Net/Cmd.pm line 366.
+[2017-11-20 13:59:23][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/FTP.pm(1080) Net::Cmd::response
+[2017-11-20 13:59:23][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/FTP.pm(108) Net::FTP::response
+[2017-11-20 13:59:23][ftp_load.pl(70)]  callby ftp_load.pl(196) Net::FTP::new
+[2017-11-20 13:59:23][ftp_load.pl(70)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 13:59:23][ftp_load.pl(70)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 13:59:23][ftp_load.pl(65)] warn: Argument "" isn't numeric in numeric ne (!=) at /opt/ActivePerl-5.14/lib/Net/FTP.pm line 1082.
+[2017-11-20 13:59:23][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/FTP.pm(108) Net::FTP::response
+[2017-11-20 13:59:23][ftp_load.pl(70)]  callby ftp_load.pl(196) Net::FTP::new
+[2017-11-20 13:59:23][ftp_load.pl(70)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 13:59:23][ftp_load.pl(70)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 13:59:23][ftp_load.pl(198)] FTP connect false!
+[2017-11-20 14:00:13][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 14:08:25][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 14:08:25][ftp_load.pl(198)] FTP connect false!
+[2017-11-20 14:09:09][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 14:09:23][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 14:09:23][ftp_load.pl(65)] warn: Use of uninitialized value in addition (+) at /opt/ActivePerl-5.14/lib/Net/FTP.pm line 1097.
+[2017-11-20 14:09:23][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/Cmd.pm(353) Net::FTP::parse_response
+[2017-11-20 14:09:23][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/FTP.pm(1080) Net::Cmd::response
+[2017-11-20 14:09:23][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/FTP.pm(108) Net::FTP::response
+[2017-11-20 14:09:23][ftp_load.pl(70)]  callby ftp_load.pl(196) Net::FTP::new
+[2017-11-20 14:09:23][ftp_load.pl(70)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 14:09:23][ftp_load.pl(70)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 14:09:23][ftp_load.pl(65)] warn: Use of uninitialized value $code in substr at /opt/ActivePerl-5.14/lib/Net/Cmd.pm line 366.
+[2017-11-20 14:09:23][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/FTP.pm(1080) Net::Cmd::response
+[2017-11-20 14:09:23][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/FTP.pm(108) Net::FTP::response
+[2017-11-20 14:09:23][ftp_load.pl(70)]  callby ftp_load.pl(196) Net::FTP::new
+[2017-11-20 14:09:23][ftp_load.pl(70)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 14:09:23][ftp_load.pl(70)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 14:09:23][ftp_load.pl(65)] warn: Argument "" isn't numeric in numeric ne (!=) at /opt/ActivePerl-5.14/lib/Net/FTP.pm line 1082.
+[2017-11-20 14:09:23][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/FTP.pm(108) Net::FTP::response
+[2017-11-20 14:09:23][ftp_load.pl(70)]  callby ftp_load.pl(196) Net::FTP::new
+[2017-11-20 14:09:23][ftp_load.pl(70)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 14:09:23][ftp_load.pl(70)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 14:09:23][ftp_load.pl(198)] FTP connect false!
+[2017-11-20 14:10:24][ftp_load.pl(65)] warn: Use of uninitialized value in addition (+) at /opt/ActivePerl-5.14/lib/Net/FTP.pm line 1097.
+[2017-11-20 14:10:24][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/Cmd.pm(353) Net::FTP::parse_response
+[2017-11-20 14:10:24][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/FTP.pm(1080) Net::Cmd::response
+[2017-11-20 14:10:24][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/FTP.pm(108) Net::FTP::response
+[2017-11-20 14:10:24][ftp_load.pl(70)]  callby ftp_load.pl(196) Net::FTP::new
+[2017-11-20 14:10:24][ftp_load.pl(70)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 14:10:24][ftp_load.pl(70)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 14:10:24][ftp_load.pl(65)] warn: Use of uninitialized value $code in substr at /opt/ActivePerl-5.14/lib/Net/Cmd.pm line 366.
+[2017-11-20 14:10:24][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/FTP.pm(1080) Net::Cmd::response
+[2017-11-20 14:10:24][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/FTP.pm(108) Net::FTP::response
+[2017-11-20 14:10:24][ftp_load.pl(70)]  callby ftp_load.pl(196) Net::FTP::new
+[2017-11-20 14:10:24][ftp_load.pl(70)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 14:10:24][ftp_load.pl(70)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 14:10:24][ftp_load.pl(65)] warn: Argument "" isn't numeric in numeric ne (!=) at /opt/ActivePerl-5.14/lib/Net/FTP.pm line 1082.
+[2017-11-20 14:10:24][ftp_load.pl(70)]  callby /opt/ActivePerl-5.14/lib/Net/FTP.pm(108) Net::FTP::response
+[2017-11-20 14:10:24][ftp_load.pl(70)]  callby ftp_load.pl(196) Net::FTP::new
+[2017-11-20 14:10:24][ftp_load.pl(70)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 14:10:24][ftp_load.pl(70)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 14:10:24][ftp_load.pl(198)] FTP connect false!
+[2017-11-20 14:10:43][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 14:10:44][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 14:10:44][ftp_load.pl(198)] FTP connect false!
+[2017-11-20 14:11:45][ftp_load.pl(198)] FTP connect false!
+[2017-11-20 14:12:46][ftp_load.pl(198)] FTP connect false!
+[2017-11-20 14:13:09][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 14:41:47][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 14:41:48][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 14:41:48][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 14:41:48][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 14:42:47][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 14:43:09][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 14:43:35][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 14:43:36][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 14:43:37][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 14:43:37][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 14:43:37][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 14:44:38][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 14:44:38][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 14:44:38][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 14:45:39][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 14:45:39][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 14:45:39][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 14:46:40][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 14:46:40][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 14:46:40][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 14:47:41][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 14:47:41][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 14:47:41][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 14:47:44][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 14:50:05][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 14:50:05][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 14:50:05][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 14:50:05][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 14:50:53][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 14:50:54][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 14:50:54][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 14:50:54][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 14:50:54][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 14:51:55][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 14:51:55][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 14:51:55][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 14:52:10][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 14:52:15][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 14:52:17][ftp_load.pl(203)] login false!
+[2017-11-20 14:52:34][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 14:52:35][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 14:52:36][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 14:52:36][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 14:52:36][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 14:52:55][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 14:53:00][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 14:53:01][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 14:53:01][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 14:53:01][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 14:54:02][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 14:54:02][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 14:54:02][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 14:55:03][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 14:55:03][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 14:55:03][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 14:56:04][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 14:56:04][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 14:56:04][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 14:57:05][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 14:57:05][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 14:57:05][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 14:57:56][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 14:57:57][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 14:57:57][ftp_load.pl(226)] /GMDBackup/full/clearlog/goodslog.frm upload file
+[2017-11-20 14:57:57][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog/goodslog.frm
+[2017-11-20 14:57:57][ftp_load.pl(305)] Control Connection off! last file /GMDBackup/full/clearlog/goodslog.frm
+[2017-11-20 14:58:58][ftp_load.pl(172)] last upload file /GMDBackup/full/clearlog/goodslog.frm and filetype is /home/gm_tools!
+[2017-11-20 14:58:58][ftp_load.pl(226)] /GMDBackup/full/clearlog/goodslog.frm upload file
+[2017-11-20 14:58:58][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog/goodslog.frm
+[2017-11-20 14:58:58][ftp_load.pl(305)] Control Connection off! last file /GMDBackup/full/clearlog/goodslog.frm
+[2017-11-20 14:59:59][ftp_load.pl(172)] last upload file /GMDBackup/full/clearlog/goodslog.frm and filetype is /home/gm_tools!
+[2017-11-20 14:59:59][ftp_load.pl(226)] /GMDBackup/full/clearlog/goodslog.frm upload file
+[2017-11-20 14:59:59][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog/goodslog.frm
+[2017-11-20 14:59:59][ftp_load.pl(305)] Control Connection off! last file /GMDBackup/full/clearlog/goodslog.frm
+[2017-11-20 15:01:00][ftp_load.pl(172)] last upload file /GMDBackup/full/clearlog/goodslog.frm and filetype is /home/gm_tools!
+[2017-11-20 15:01:00][ftp_load.pl(226)] /GMDBackup/full/clearlog/goodslog.frm upload file
+[2017-11-20 15:01:00][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog/goodslog.frm
+[2017-11-20 15:01:00][ftp_load.pl(305)] Control Connection off! last file /GMDBackup/full/clearlog/goodslog.frm
+[2017-11-20 15:01:08][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:01:57][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:01:57][ftp_load.pl(226)] /GMDBackup/full/clearlog/goodslog.frm upload file
+[2017-11-20 15:01:57][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog/goodslog.frm
+[2017-11-20 15:01:57][ftp_load.pl(305)] Control Connection off! last file /GMDBackup/full/clearlog/goodslog.frm
+[2017-11-20 15:02:01][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:04:12][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:04:12][ftp_load.pl(226)] /GMDBackup/full/clearlog/goodslog.frm upload file
+[2017-11-20 15:04:12][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog/goodslog.frm
+[2017-11-20 15:04:12][ftp_load.pl(305)] Control Connection off! last file /GMDBackup/full/clearlog/goodslog.frm
+[2017-11-20 15:04:15][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:05:18][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:05:18][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 15:05:18][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 15:05:18][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 15:06:19][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 15:06:19][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 15:06:19][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 15:06:53][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:06:55][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:06:55][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 15:06:55][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 15:06:55][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 15:07:56][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 15:07:56][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 15:07:56][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 15:08:57][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 15:08:57][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 15:08:57][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 15:08:59][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:10:41][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:10:41][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 15:10:41][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 15:10:41][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 15:11:42][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 15:11:42][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 15:11:42][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 15:12:43][ftp_load.pl(226)] /GMDBackup/full/clearlog upload file
+[2017-11-20 15:12:43][ftp_load.pl(295)] start upload file /GMDBackup/full/clearlog
+[2017-11-20 15:12:43][ftp_load.pl(312)] end upload file /GMDBackup/full/clearlog
+[2017-11-20 15:13:44][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:16:42][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:16:44][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:16:44][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:16:44][ftp_load.pl(305)] Control Connection off! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:17:45][ftp_load.pl(172)] last upload file /data/db/1510965709_full_1.tar.gz and filetype is /home/gm_tools!
+[2017-11-20 15:17:45][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:17:45][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:17:45][ftp_load.pl(305)] Control Connection off! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:17:48][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:18:32][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:18:32][ftp_load.pl(210)] mkdir /data/db in ftp server
+[2017-11-20 15:18:32][ftp_load.pl(214)] path set false!
+[2017-11-20 15:19:27][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:19:29][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:19:29][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:19:29][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:19:29][ftp_load.pl(305)] Control Connection off! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:20:30][ftp_load.pl(172)] last upload file /data/db/1510965709_full_1.tar.gz and filetype is /home/gm_tools!
+[2017-11-20 15:20:30][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:20:30][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:20:30][ftp_load.pl(305)] Control Connection off! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:20:33][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:21:05][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:21:05][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:21:05][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:21:05][ftp_load.pl(305)] Control Connection off! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:21:07][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:21:18][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:21:18][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:21:18][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:21:18][ftp_load.pl(305)] Control Connection off! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:22:58][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:22:58][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:22:58][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:22:58][ftp_load.pl(305)] Control Connection off! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:23:04][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:23:15][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:23:15][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:23:15][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:23:15][ftp_load.pl(305)] Control Connection off! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:23:30][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:23:31][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:23:31][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:23:31][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:23:31][ftp_load.pl(305)] Control Connection off! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:23:58][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:24:00][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:24:00][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:24:00][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:24:00][ftp_load.pl(305)] Control Connection off! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:25:01][ftp_load.pl(172)] last upload file /data/db/1510965709_full_1.tar.gz and filetype is /home/gm_tools!
+[2017-11-20 15:25:01][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:25:01][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:25:01][ftp_load.pl(305)] Control Connection off! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:25:02][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:25:04][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:25:04][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:25:04][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:25:04][ftp_load.pl(305)] Control Connection off!! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:25:13][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:25:37][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:25:37][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:25:37][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:25:37][ftp_load.pl(305)] Control Connection off!! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:25:44][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:25:45][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:25:45][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:25:45][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:25:45][ftp_load.pl(305)] Control Connection off!! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:25:56][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:25:58][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:25:58][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:25:58][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:25:58][ftp_load.pl(305)] Control Connection off!! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:26:58][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:26:59][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:26:59][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:26:59][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:26:59][ftp_load.pl(65)] warn: Use of uninitialized value $uploadsize in print at ftp_load.pl line 304.
+[2017-11-20 15:26:59][ftp_load.pl(70)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 15:26:59][ftp_load.pl(70)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 15:26:59][ftp_load.pl(82)] error: Died at ftp_load.pl line 305.
+[2017-11-20 15:26:59][ftp_load.pl(87)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 15:26:59][ftp_load.pl(87)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 15:26:59][ftp_load.pl(322)] upload error Died at ftp_load.pl line 305.
+[2017-11-20 15:27:14][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:27:16][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:27:16][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:27:16][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:27:16][ftp_load.pl(65)] warn: Use of uninitialized value $uploadsize in string at ftp_load.pl line 304.
+[2017-11-20 15:27:16][ftp_load.pl(70)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 15:27:16][ftp_load.pl(70)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 15:27:16][ftp_load.pl(82)] error: Died at ftp_load.pl line 305.
+[2017-11-20 15:27:16][ftp_load.pl(87)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 15:27:16][ftp_load.pl(87)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 15:27:16][ftp_load.pl(322)] upload error Died at ftp_load.pl line 305.
+[2017-11-20 15:27:37][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:27:38][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:27:38][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:27:38][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:27:38][ftp_load.pl(65)] warn: Use of uninitialized value $uploadsize in sprintf at ftp_load.pl line 310.
+[2017-11-20 15:27:38][ftp_load.pl(70)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 15:27:38][ftp_load.pl(70)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 15:27:38][ftp_load.pl(310)] transfer 0/442318 /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:27:38][ftp_load.pl(312)] end upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:27:44][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:28:59][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:28:59][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:28:59][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:28:59][ftp_load.pl(305)] Control Connection off!! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:30:00][ftp_load.pl(172)] last upload file /data/db/1510965709_full_1.tar.gz and filetype is /home/gm_tools!
+[2017-11-20 15:30:00][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:30:00][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:30:00][ftp_load.pl(305)] Control Connection off!! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:31:01][ftp_load.pl(172)] last upload file /data/db/1510965709_full_1.tar.gz and filetype is /home/gm_tools!
+[2017-11-20 15:31:01][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:31:01][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:31:01][ftp_load.pl(305)] Control Connection off!! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:32:02][ftp_load.pl(172)] last upload file /data/db/1510965709_full_1.tar.gz and filetype is /home/gm_tools!
+[2017-11-20 15:32:03][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:32:03][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:32:03][ftp_load.pl(305)] Control Connection off!! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:33:04][ftp_load.pl(172)] last upload file /data/db/1510965709_full_1.tar.gz and filetype is /home/gm_tools!
+[2017-11-20 15:33:04][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:33:04][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:33:04][ftp_load.pl(305)] Control Connection off!! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:33:15][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:33:17][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:33:17][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:33:17][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:33:17][ftp_load.pl(305)] Control Connection off!! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:33:19][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:49:32][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:49:32][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:49:32][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:49:33][ftp_load.pl(305)] Control Connection off!! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:50:34][ftp_load.pl(172)] last upload file /data/db/1510965709_full_1.tar.gz and filetype is /home!
+[2017-11-20 15:50:34][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:50:34][ftp_load.pl(295)] start upload file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:50:34][ftp_load.pl(305)] Control Connection off!! last file /data/db/1510965709_full_1.tar.gz
+[2017-11-20 15:51:35][ftp_load.pl(172)] last upload file /data/db/1510965709_full_1.tar.gz and filetype is /home!
+[2017-11-20 15:51:35][ftp_load.pl(226)] /data/db/1510965709_full_1.tar.gz upload file
+[2017-11-20 15:51:35][ftp_load.pl(236)] can not open file for read(No such file or directory)
+[2017-11-20 15:52:37][ftp_load.pl(226)] /data/db/1511162080_full_1.tar.gz upload file
+[2017-11-20 15:52:37][ftp_load.pl(295)] start upload file /data/db/1511162080_full_1.tar.gz
+[2017-11-20 15:52:37][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511162080_full_1.tar.gz
+[2017-11-20 15:53:38][ftp_load.pl(172)] last upload file /data/db/1511162080_full_1.tar.gz and filetype is /home!
+[2017-11-20 15:53:38][ftp_load.pl(226)] /data/db/1511162080_full_1.tar.gz upload file
+[2017-11-20 15:53:38][ftp_load.pl(295)] start upload file /data/db/1511162080_full_1.tar.gz
+[2017-11-20 15:53:38][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511162080_full_1.tar.gz
+[2017-11-20 15:54:39][ftp_load.pl(172)] last upload file /data/db/1511162080_full_1.tar.gz and filetype is /home!
+[2017-11-20 15:54:39][ftp_load.pl(226)] /data/db/1511162080_full_1.tar.gz upload file
+[2017-11-20 15:54:39][ftp_load.pl(295)] start upload file /data/db/1511162080_full_1.tar.gz
+[2017-11-20 15:54:39][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511162080_full_1.tar.gz
+[2017-11-20 15:55:40][ftp_load.pl(172)] last upload file /data/db/1511162080_full_1.tar.gz and filetype is /home!
+[2017-11-20 15:55:40][ftp_load.pl(226)] /data/db/1511162080_full_1.tar.gz upload file
+[2017-11-20 15:55:40][ftp_load.pl(295)] start upload file /data/db/1511162080_full_1.tar.gz
+[2017-11-20 15:55:40][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511162080_full_1.tar.gz
+[2017-11-20 15:56:41][ftp_load.pl(172)] last upload file /data/db/1511162080_full_1.tar.gz and filetype is /home!
+[2017-11-20 15:56:41][ftp_load.pl(226)] /data/db/1511162080_full_1.tar.gz upload file
+[2017-11-20 15:56:41][ftp_load.pl(295)] start upload file /data/db/1511162080_full_1.tar.gz
+[2017-11-20 15:56:41][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511162080_full_1.tar.gz
+[2017-11-20 15:57:36][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 15:57:40][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 15:57:40][ftp_load.pl(226)] /data/db/1511162080_full_1.tar.gz upload file
+[2017-11-20 15:57:40][ftp_load.pl(295)] start upload file /data/db/1511162080_full_1.tar.gz
+[2017-11-20 15:57:40][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511162080_full_1.tar.gz
+[2017-11-20 15:58:41][ftp_load.pl(172)] last upload file /data/db/1511162080_full_1.tar.gz and filetype is /home!
+[2017-11-20 15:58:41][ftp_load.pl(226)] /data/db/1511162080_full_1.tar.gz upload file
+[2017-11-20 15:58:41][ftp_load.pl(236)] can not open file for read(No such file or directory)
+[2017-11-20 16:02:15][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:02:17][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:02:29][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:03:30][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:03:30][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:03:30][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:03:30][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:04:02][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:08:26][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:08:26][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:08:26][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:08:26][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:08:53][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:08:54][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:08:54][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:08:54][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:08:54][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:09:55][ftp_load.pl(172)] last upload file /data/db/1511164985_full_1.tar.gz and filetype is /home!
+[2017-11-20 16:09:55][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:09:55][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:09:55][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:10:56][ftp_load.pl(172)] last upload file /data/db/1511164985_full_1.tar.gz and filetype is /home!
+[2017-11-20 16:10:56][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:10:56][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:10:56][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:11:57][ftp_load.pl(172)] last upload file /data/db/1511164985_full_1.tar.gz and filetype is /home!
+[2017-11-20 16:11:57][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:11:57][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:11:57][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:12:58][ftp_load.pl(172)] last upload file /data/db/1511164985_full_1.tar.gz and filetype is /home!
+[2017-11-20 16:12:58][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:12:58][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:12:58][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:13:56][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:15:49][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:15:50][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:15:50][ftp_load.pl(296)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:15:50][ftp_load.pl(306)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:16:37][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:17:40][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:17:40][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:17:40][ftp_load.pl(296)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:17:40][ftp_load.pl(306)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:18:12][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:18:13][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:18:13][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:18:13][ftp_load.pl(296)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:18:13][ftp_load.pl(306)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:18:24][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:18:25][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:18:25][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:18:25][ftp_load.pl(296)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:18:25][ftp_load.pl(306)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:18:51][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:18:52][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:18:52][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:18:52][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:18:52][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:19:19][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:19:20][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:19:20][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:19:20][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:19:20][ftp_load.pl(65)] warn: Use of uninitialized value $uploadsize in concatenation (.) or string at ftp_load.pl line 305.
+[2017-11-20 16:19:20][ftp_load.pl(70)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 16:19:20][ftp_load.pl(70)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 16:19:20][ftp_load.pl(305)] Control Connection off!! last file 
+[2017-11-20 16:20:11][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:20:21][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:20:21][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:20:21][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:20:21][ftp_load.pl(65)] warn: Use of uninitialized value $uploadsize in concatenation (.) or string at ftp_load.pl line 304.
+[2017-11-20 16:20:21][ftp_load.pl(70)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 16:20:21][ftp_load.pl(70)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 16:20:21][ftp_load.pl(304)] Control Connection off!! last file 
+[2017-11-20 16:20:21][ftp_load.pl(306)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:20:38][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:20:39][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:20:39][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:20:39][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:20:39][ftp_load.pl(65)] warn: Use of uninitialized value $uploadsize in concatenation (.) or string at ftp_load.pl line 304.
+[2017-11-20 16:20:39][ftp_load.pl(70)]  callby ftp_load.pl(194) (eval)
+[2017-11-20 16:20:39][ftp_load.pl(70)]  callby ftp_load.pl(138) main::file_ftp
+[2017-11-20 16:20:39][ftp_load.pl(304)] Control Connection off!! last file 
+[2017-11-20 16:20:39][ftp_load.pl(306)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:20:45][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:20:46][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:20:46][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:20:46][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:20:46][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:21:06][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:21:07][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:21:07][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:21:07][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:21:07][ftp_load.pl(310)] transfer 1234/442330 /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:21:07][ftp_load.pl(312)] end upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:22:08][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:22:08][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:22:08][ftp_load.pl(310)] transfer 1234/442330 /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:22:08][ftp_load.pl(312)] end upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:23:09][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:23:09][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:23:09][ftp_load.pl(310)] transfer 1234/442330 /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:23:09][ftp_load.pl(312)] end upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:23:11][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:23:18][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:23:19][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:23:19][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:23:19][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:23:31][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:23:32][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:23:32][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:23:32][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:23:32][ftp_load.pl(310)] transfer 123/442330 /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:23:32][ftp_load.pl(312)] end upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:24:33][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:24:33][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:24:33][ftp_load.pl(310)] transfer 123/442330 /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:24:33][ftp_load.pl(312)] end upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:25:06][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:25:07][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:25:07][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:25:07][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:25:07][ftp_load.pl(305)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:25:35][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:25:36][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:25:36][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:25:36][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:25:36][ftp_load.pl(310)] transfer 10240000/442330 /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:25:36][ftp_load.pl(312)] end upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:26:37][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:26:37][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:26:37][ftp_load.pl(310)] transfer 10240000/442330 /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:26:37][ftp_load.pl(312)] end upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:27:38][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:27:38][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:27:38][ftp_load.pl(310)] transfer 10240000/442330 /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:27:38][ftp_load.pl(312)] end upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:28:39][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:28:39][ftp_load.pl(295)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:28:39][ftp_load.pl(310)] transfer 10240000/442330 /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:28:39][ftp_load.pl(312)] end upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:28:58][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:28:59][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:29:01][ftp_load.pl(203)] login false!
+[2017-11-20 16:30:04][ftp_load.pl(203)] login false!
+[2017-11-20 16:30:56][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-20 16:39:12][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-20 16:39:12][ftp_load.pl(226)] /data/db/1511164985_full_1.tar.gz upload file
+[2017-11-20 16:39:12][ftp_load.pl(294)] start upload file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:39:12][ftp_load.pl(303)] Control Connection off!! last file /data/db/1511164985_full_1.tar.gz
+[2017-11-20 16:39:25][ftp_load.pl(149)] =================== 服务器停止 ===================

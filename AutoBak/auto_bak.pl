@@ -71,11 +71,13 @@ sub main
 
 		foreach my $section(@{$cfg_ini}) {
 			if ($section->{'name'} eq "mysql_backup_info") {
+				
 				$fullback_interval = get_section_value($section, "fullback_interval", 1200);
 				$backfile_srcdb = get_section_value($section, "backfile_srcdb", "");
 				die "backfile_srcdb is null!\n" unless $backfile_srcdb;
 			}
 			elsif ($section->{'name'} eq "mysql_inno_backup") {
+
 				my ($dbconfigfile, $dbackport, $dbackupath, $dbuser, $dbpass, $ftp_root, $interval, $cycle, $fullback_id, $servertype);	
 				$dbconfigfile  = get_section_value($section, "dbconfigfile", "/etc/my.cnf");
 				$dbackport = get_section_value($section, "dbackport", "3306");
@@ -89,7 +91,8 @@ sub main
 				$servertype = get_section_value($section, "servertype", "");
 				#保留之前的备份机制
 				if($backfile_srcdb){
-					die "cfg of fullback_id is null!\n" unless $fullback_id;
+					print "1" , "\n";
+					# die "cfg of fullback_id is null!\n" unless $fullback_id;
 					die "cfg of servertype is null!\n" unless $servertype;
 					if(!defined ($g_lastinctime->{$fullback_id})){
 					$g_lastinctime->{$fullback_id} = 0;
@@ -97,6 +100,7 @@ sub main
 					dbackup2($dbconfigfile, $dbackport, $dbackupath, $dbuser, $dbpass, $ftp_root, $interval, $cycle, $fullback_id, $servertype, $fullback_interval, $backfile_srcdb);
 				}else
 				{
+					print "2" , "\n";
 					dbackup($dbconfigfile, $dbackport, $dbackupath, $dbuser, $dbpass, $ftp_root, $interval, $cycle);
 				}
 				
@@ -174,7 +178,7 @@ sub dbackup2
 			$cmd = "innobackupex --defaults-file=$dbconfigfile --user=$dbuser --password=$dbpass --host=127.0.0.1 --port=$dbackport --no-lock --no-timestamp $dbackupath/full";
 			diecmd($cmd);
 			
-			my $full = time()."_full_$fullback_id";
+			my $full = time()."_full";
 			$cmd = "GZIP=\"-9\" tar -zcvf $dbackupath/$full.tar.gz -C $dbackupath full";
 			diecmd($cmd);
 			
@@ -193,14 +197,14 @@ sub dbackup2
 			close FH;
 			$g_lastfulltime = time();
 		
-			my $table ='admin_autobak';
-			my $data ={
-				'aab_servertype' =>$servertype,
-				'aab_filename' =>"$full.tar.gz",
-				'aab_bakid' =>$fullback_id,
-				'aab_md5' =>$md5,
-				};
-			die "insert to db $full.tar.gz fail !" unless $db->insert($table,$data);
+			# my $table ='admin_autobak';
+			# my $data ={
+			# 	'aab_servertype' =>$servertype,
+			# 	'aab_filename' =>"$full.tar.gz",
+			# 	'aab_bakid' =>$fullback_id,
+			# 	'aab_md5' =>$md5,
+			# 	};
+			# die "insert to db $full.tar.gz fail !" unless $db->insert($table,$data);
 		}
 		else {												#incremental backup
 			my @files;
@@ -221,10 +225,10 @@ sub dbackup2
 			if ($lastinc == -1) {							#first
 				$lastinc = "full";
 			} else {										#second, third, ...
-				$lastinc = $lastinc."_inc_$fullback_id";					
+				$lastinc = $lastinc."_inc";					
 			}
 
-			my $nextinc = time()."_inc_$fullback_id";	
+			my $nextinc = time()."_inc";	
 
 			$cmd = "innobackupex --defaults-file=$dbconfigfile --user=$dbuser --password=$dbpass --host=127.0.0.1 --port=$dbackport --no-lock --no-timestamp --incremental --incremental-basedir=$dbackupath/$lastinc $dbackupath/$nextinc";
 			diecmd($cmd);
@@ -243,15 +247,15 @@ sub dbackup2
 			
 			move("$dbackupath/$nextinc.tar.gz", "$ftp_root/");
 			#存入数据库
-			my $table ='admin_autobak';
-			my $data ={
-				'aab_servertype' =>$servertype,
-				'aab_filename' =>"$nextinc.tar.gz",
-				'aab_bakid' =>$fullback_id,
-				'aab_md5' =>$md5,
-				};
-			die "insert to db $nextinc.tar.gz fail !" unless $db->insert($table,$data);
-			rmtree("$dbackupath/$lastinc") unless $lastinc eq 'full';
+			# my $table ='admin_autobak';
+			# my $data ={
+			# 	'aab_servertype' =>$servertype,
+			# 	'aab_filename' =>"$nextinc.tar.gz",
+			# 	'aab_bakid' =>$fullback_id,
+			# 	'aab_md5' =>$md5,
+			# 	};
+			# die "insert to db $nextinc.tar.gz fail !" unless $db->insert($table,$data);
+			# rmtree("$dbackupath/$lastinc") unless $lastinc eq 'full';
 		}
 		
 		$g_lastinctime->{$fullback_id} = time();
