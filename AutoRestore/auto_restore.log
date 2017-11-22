@@ -1,0 +1,766 @@
+[auto_restore.pl(53)][2017-11-20 17:26:27] -----Done!------ at auto_restore.pl line 53.
+[auto_restore.pl(21)][2017-11-20 17:26:27] 	| main::main
+[auto_restore.pl(53)][2017-11-20 17:27:36] -----Done!------ at auto_restore.pl line 53.
+[auto_restore.pl(21)][2017-11-20 17:27:36] 	| main::main
+[auto_restore.pl(53)][2017-11-20 17:32:30] -----Done!------ at auto_restore.pl line 53.
+[auto_restore.pl(21)][2017-11-20 17:32:30] 	| main::main
+[auto_restore.pl(53)][2017-11-20 17:33:31] -----Done!------ at auto_restore.pl line 53.
+[auto_restore.pl(21)][2017-11-20 17:33:31] 	| main::main
+[auto_restore.pl(53)][2017-11-20 17:34:15] -----Done!------ at auto_restore.pl line 53.
+[auto_restore.pl(21)][2017-11-20 17:34:15] 	| main::main
+[auto_restore.pl(52)][2017-11-20 17:35:10] -----Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-20 17:35:10] 	| main::main
+[auto_restore.pl(52)][2017-11-20 17:52:32] -----Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-20 17:52:32] 	| main::main
+[auto_restore.pl(106)][2017-11-20 17:54:44] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-20 17:54:44] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-20 17:54:44] 	| main::main
+[auto_restore.pl(52)][2017-11-20 17:54:44] -----Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-20 17:54:44] 	| main::main
+[auto_restore.pl(106)][2017-11-20 18:13:38] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-20 18:13:38] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-20 18:13:38] 	| main::main
+[auto_restore.pl(52)][2017-11-20 18:13:38] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-20 18:13:38] 	| main::main
+[auto_restore.pl(52)][2017-11-20 18:15:58] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-20 18:15:58] 	| main::main
+[auto_restore.pl(53)][2017-11-20 18:16:16] ------Done!------ at auto_restore.pl line 53.
+[auto_restore.pl(21)][2017-11-20 18:16:16] 	| main::main
+[auto_restore.pl(107)][2017-11-20 18:16:51] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-20 18:16:51] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-20 18:16:51] 	| main::main
+[auto_restore.pl(52)][2017-11-20 18:16:51] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-20 18:16:51] 	| main::main
+[auto_restore.pl(106)][2017-11-20 18:16:57] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-20 18:16:57] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-20 18:16:57] 	| main::main
+[auto_restore.pl(52)][2017-11-20 18:16:57] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-20 18:16:57] 	| main::main
+[auto_restore.pl(107)][2017-11-20 18:17:23] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-20 18:17:23] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-20 18:17:23] 	| main::main
+[auto_restore.pl(52)][2017-11-20 18:17:23] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-20 18:17:23] 	| main::main
+[auto_restore.pl(107)][2017-11-20 18:28:30] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-20 18:28:30] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-20 18:28:30] 	| main::main
+[auto_restore.pl(52)][2017-11-20 18:28:30] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-20 18:28:30] 	| main::main
+[auto_restore.pl(107)][2017-11-20 18:37:03] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-20 18:37:03] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-20 18:37:03] 	| main::main
+[auto_restore.pl(52)][2017-11-20 18:37:03] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-20 18:37:03] 	| main::main
+[auto_restore.pl(107)][2017-11-20 18:58:23] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-20 18:58:23] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-20 18:58:23] 	| main::main
+[auto_restore.pl(52)][2017-11-20 18:58:23] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-20 18:58:23] 	| main::main
+[auto_restore.pl(107)][2017-11-20 19:14:48] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-20 19:14:48] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-20 19:14:48] 	| main::main
+[auto_restore.pl(52)][2017-11-20 19:14:48] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-20 19:14:48] 	| main::main
+[auto_restore.pl(107)][2017-11-20 19:17:02] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-20 19:17:02] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-20 19:17:02] 	| main::main
+[auto_restore.pl(52)][2017-11-20 19:17:02] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-20 19:17:02] 	| main::main
+[auto_restore.pl(108)][2017-11-20 19:21:32] Use of uninitialized value $full_file in exists at auto_restore.pl line 108.
+[auto_restore.pl(51)][2017-11-20 19:21:32] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-20 19:21:32] 	| main::main
+[auto_restore.pl(52)][2017-11-20 19:21:32] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-20 19:21:32] 	| main::main
+[auto_restore.pl(107)][2017-11-21 09:09:10] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-21 09:09:10] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 09:09:10] 	| main::main
+[auto_restore.pl(52)][2017-11-21 09:09:10] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:09:10] 	| main::main
+[auto_restore.pl(107)][2017-11-21 09:15:18] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-21 09:15:18] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 09:15:18] 	| main::main
+[auto_restore.pl(52)][2017-11-21 09:15:18] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:15:18] 	| main::main
+[auto_restore.pl(107)][2017-11-21 09:22:57] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-21 09:22:57] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 09:22:57] 	| main::main
+[auto_restore.pl(52)][2017-11-21 09:22:57] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:22:57] 	| main::main
+[auto_restore.pl(107)][2017-11-21 09:24:44] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-21 09:24:44] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 09:24:44] 	| main::main
+[auto_restore.pl(52)][2017-11-21 09:24:44] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:24:44] 	| main::main
+[auto_restore.pl(107)][2017-11-21 09:30:28] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-21 09:30:28] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 09:30:28] 	| main::main
+[auto_restore.pl(52)][2017-11-21 09:30:28] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:30:28] 	| main::main
+[auto_restore.pl(107)][2017-11-21 09:31:13] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-21 09:31:13] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 09:31:13] 	| main::main
+[auto_restore.pl(52)][2017-11-21 09:31:13] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:31:13] 	| main::main
+[TIPS][2017-11-21 09:32:31] Fail:innobackupex --defaults-file=/etc/test.cnf --apply-log /home/quanquan/db/full --redo-only
+[auto_restore.pl(52)][2017-11-21 09:32:31] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:32:31] 	| main::main
+[TIPS][2017-11-21 09:33:16] Fail:innobackupex --defaults-file=/etc/test.cnf --apply-log /home/quanquan/db/full --redo-only
+[auto_restore.pl(52)][2017-11-21 09:33:16] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:33:16] 	| main::main
+[auto_restore.pl(109)][2017-11-21 09:35:30] Use of uninitialized value $targetfile in string at auto_restore.pl line 109.
+[auto_restore.pl(51)][2017-11-21 09:35:30] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 09:35:30] 	| main::main
+[TIPS][2017-11-21 09:35:31] Fail:innobackupex --defaults-file=/etc/test.cnf --apply-log /home/quanquan/db/full --redo-only
+[auto_restore.pl(52)][2017-11-21 09:35:31] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:35:31] 	| main::main
+[TIPS][2017-11-21 09:35:50] Fail:innobackupex --defaults-file=/etc/test.cnf --apply-log /home/quanquan/db/full --redo-only
+[auto_restore.pl(52)][2017-11-21 09:35:50] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:35:50] 	| main::main
+[TIPS][2017-11-21 09:39:08] Fail:innobackupex --defaults-file=/etc/test.cnf --apply-log /home/quanquan/db/full --redo-only
+[auto_restore.pl(52)][2017-11-21 09:39:08] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:39:08] 	| main::main
+[TIPS][2017-11-21 09:39:33] Fail:innobackupex2 --defaults-file=/etc/test.cnf --apply-log /home/quanquan/db/full --redo-only
+[auto_restore.pl(52)][2017-11-21 09:39:33] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:39:33] 	| main::main
+[TIPS][2017-11-21 09:40:14] Fail:innobackupex --defaults-file=/etc/test.cnf --apply-log /home/quanquan/db/full --redo-only
+[auto_restore.pl(52)][2017-11-21 09:40:14] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:40:14] 	| main::main
+[TIPS][2017-11-21 09:40:48] Fail:innobackupex --defaults-file=/etc/test.cnf --apply-log /home/quanquan/db/full --redo-only
+[auto_restore.pl(52)][2017-11-21 09:40:48] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:40:48] 	| main::main
+[TIPS][2017-11-21 09:49:40] Fail:innobackupex --apply-log --redo-only  --defaults-file=/etc/test.cnf --user=root -password=123456 --port=3606 /home/quanquan/db/full
+[auto_restore.pl(52)][2017-11-21 09:49:40] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:49:40] 	| main::main
+[TIPS][2017-11-21 09:50:21] Fail:innobackupex --apply-log --redo-only --user=root -password=123456 --port=3606  --defaults-file=/etc/test.cnf /home/quanquan/db/full
+[auto_restore.pl(52)][2017-11-21 09:50:21] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:50:21] 	| main::main
+[TIPS][2017-11-21 09:51:03] Fail:innobackupex --apply-log --redo-only --user=root --password=123456 --port=3606  --defaults-file=/etc/test.cnf /home/quanquan/db/full
+[auto_restore.pl(52)][2017-11-21 09:51:03] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 09:51:03] 	| main::main
+[TIPS][2017-11-21 10:10:28] Fail:innobackupex3 --copy-back --defaults-file=/home/quanquan/db/copy.cnf /home/quanquan/db/full
+[auto_restore.pl(52)][2017-11-21 10:10:29] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:10:29] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:15:50] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:15:50] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:17:06] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:17:06] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:18:31] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:18:31] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:18:57] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:18:57] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:22:16] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:22:16] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:22:36] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:22:36] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:23:12] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:23:12] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:24:32] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:24:32] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:25:03] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:25:03] 	| main::main
+[auto_restore.pl(111)][2017-11-21 10:25:22] Use of uninitialized value $targetfile in string at auto_restore.pl line 111.
+[auto_restore.pl(51)][2017-11-21 10:25:22] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 10:25:22] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:25:22] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:25:22] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:26:03] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:26:03] 	| main::main
+[TIPS][2017-11-21 10:27:03] Fail:innobackupex --defaults-file=/home/quanquan/db/copy.cnf --copy-back /home/quanquan/db/full
+[auto_restore.pl(52)][2017-11-21 10:27:03] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:27:03] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:27:17] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:27:17] 	| main::main
+[TIPS][2017-11-21 10:28:20] Fail:innobackupex --defaults-file=/home/quanquan/db/copy.cnf --copy-back /home/quanquan/db/full
+[auto_restore.pl(52)][2017-11-21 10:28:20] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:28:20] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:33:05] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:33:05] 	| main::main
+[TIPS][2017-11-21 10:33:20] Fail:innobackupex --defaults-file=/home/quanquan/db/copy.cnf --copy-back /home/quanquan/db/full
+[auto_restore.pl(52)][2017-11-21 10:33:20] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:33:20] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:34:36] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:34:36] 	| main::main
+[TIPS][2017-11-21 10:34:59] Fail:innobackupex --defaults-file=/home/quanquan/db/copy.cnf --copy-back /home/quanquan/db/full
+[auto_restore.pl(52)][2017-11-21 10:34:59] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:34:59] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:36:08] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:36:08] 	| main::main
+[TIPS][2017-11-21 10:36:43] Fail:service test restart
+[auto_restore.pl(52)][2017-11-21 10:36:43] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:36:43] 	| main::main
+[auto_restore.pl(183)][2017-11-21 10:41:58] readline() on closed filehandle FH1 at auto_restore.pl line 183.
+[auto_restore.pl(151)][2017-11-21 10:41:58] 	| main::make_copying_cfgfile
+[auto_restore.pl(51)][2017-11-21 10:41:58] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 10:41:58] 	| main::main
+[TIPS][2017-11-21 10:41:58] Fail:innobackupex --defaults-file=/home/quanquan/db/copy.cnf --copy-back /home/quanquan/db/full
+[auto_restore.pl(52)][2017-11-21 10:41:58] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:41:58] 	| main::main
+[auto_restore.pl(183)][2017-11-21 10:44:40] readline() on closed filehandle FH1 at auto_restore.pl line 183.
+[auto_restore.pl(151)][2017-11-21 10:44:40] 	| main::make_copying_cfgfile
+[auto_restore.pl(51)][2017-11-21 10:44:40] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 10:44:40] 	| main::main
+[TIPS][2017-11-21 10:44:40] Fail:innobackupex --defaults-file=/home/quanquan/db/copy.cnf --copy-back /home/quanquan/db/full
+[auto_restore.pl(52)][2017-11-21 10:44:40] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:44:40] 	| main::main
+[auto_restore.pl(184)][2017-11-21 10:45:43] readline() on closed filehandle FH1 at auto_restore.pl line 184.
+[auto_restore.pl(152)][2017-11-21 10:45:43] 	| main::make_copying_cfgfile
+[auto_restore.pl(51)][2017-11-21 10:45:43] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 10:45:43] 	| main::main
+[TIPS][2017-11-21 10:45:43] Fail:innobackupex --defaults-file=/home/quanquan/db/copy.cnf --copy-back /home/quanquan/db/full
+[auto_restore.pl(52)][2017-11-21 10:45:43] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:45:43] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:50:50] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:50:50] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:52:06] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:52:06] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:52:30] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:52:30] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:52:52] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:52:52] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:53:31] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:53:31] 	| main::main
+[TIPS][2017-11-21 10:53:54] Fail:service test restart
+[auto_restore.pl(52)][2017-11-21 10:53:54] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:53:54] 	| main::main
+[auto_restore.pl(105)][2017-11-21 10:55:49] Use of uninitialized value $full_file in exists at auto_restore.pl line 105.
+[auto_restore.pl(51)][2017-11-21 10:55:49] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 10:55:49] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:55:49] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:55:49] 	| main::main
+[TIPS][2017-11-21 10:56:38] Fail:service test restart
+[auto_restore.pl(52)][2017-11-21 10:56:38] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:56:38] 	| main::main
+[auto_restore.pl(105)][2017-11-21 10:57:03] Use of uninitialized value $full_file in exists at auto_restore.pl line 105.
+[auto_restore.pl(51)][2017-11-21 10:57:03] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 10:57:03] 	| main::main
+[auto_restore.pl(52)][2017-11-21 10:57:03] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:57:03] 	| main::main
+[auto_restore.pl(184)][2017-11-21 10:57:18] readline() on closed filehandle FH1 at auto_restore.pl line 184.
+[auto_restore.pl(152)][2017-11-21 10:57:18] 	| main::make_copying_cfgfile
+[auto_restore.pl(51)][2017-11-21 10:57:18] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 10:57:18] 	| main::main
+[TIPS][2017-11-21 10:57:18] Fail:innobackupex --defaults-file=/home/quanquan/db/copy.cnf --copy-back /home/quanquan/db/full
+[auto_restore.pl(52)][2017-11-21 10:57:18] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 10:57:18] 	| main::main
+[auto_restore.pl(184)][2017-11-21 11:01:38] readline() on closed filehandle FH1 at auto_restore.pl line 184.
+[auto_restore.pl(152)][2017-11-21 11:01:38] 	| main::make_copying_cfgfile
+[auto_restore.pl(51)][2017-11-21 11:01:38] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 11:01:38] 	| main::main
+[TIPS][2017-11-21 11:01:38] Fail:innobackupex --defaults-file=/GMDBase/quan/gs1/copy.cnf --copy-back /GMDBase/quan/gs1/full
+[auto_restore.pl(52)][2017-11-21 11:01:38] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:01:38] 	| main::main
+[TIPS][2017-11-21 11:02:49] Fail:service test restart
+[auto_restore.pl(52)][2017-11-21 11:02:49] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:02:49] 	| main::main
+[auto_restore.pl(184)][2017-11-21 11:05:00] readline() on closed filehandle FH1 at auto_restore.pl line 184.
+[auto_restore.pl(152)][2017-11-21 11:05:00] 	| main::make_copying_cfgfile
+[auto_restore.pl(51)][2017-11-21 11:05:00] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 11:05:00] 	| main::main
+[TIPS][2017-11-21 11:05:01] Fail:innobackupex --defaults-file=/GMDBase/quan/gs1/copy.cnf --copy-back /GMDBase/quan/gs1/full
+[auto_restore.pl(52)][2017-11-21 11:05:01] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:05:01] 	| main::main
+[TIPS][2017-11-21 11:06:52] Fail:service test restart
+[auto_restore.pl(52)][2017-11-21 11:06:52] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:06:52] 	| main::main
+[auto_restore.pl(52)][2017-11-21 11:07:06] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:07:06] 	| main::main
+[TIPS][2017-11-21 11:07:22] Fail:innobackupex --defaults-file=/GMDBase/quan/gs1/copy.cnf --copy-back /GMDBase/quan/gs1/full
+[auto_restore.pl(52)][2017-11-21 11:07:22] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:07:22] 	| main::main
+[TIPS][2017-11-21 11:07:45] Fail:service test restart
+[auto_restore.pl(52)][2017-11-21 11:07:45] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:07:45] 	| main::main
+[TIPS][2017-11-21 11:09:09] Fail:service test restart
+[auto_restore.pl(52)][2017-11-21 11:09:09] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:09:09] 	| main::main
+[auto_restore.pl(185)][2017-11-21 11:11:54] readline() on closed filehandle FH1 at auto_restore.pl line 185.
+[auto_restore.pl(152)][2017-11-21 11:11:54] 	| main::make_copying_cfgfile
+[auto_restore.pl(51)][2017-11-21 11:11:54] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-21 11:11:54] 	| main::main
+[TIPS][2017-11-21 11:11:54] Fail:innobackupex --defaults-file=/GMDBase/quan/gs1/copy.cnf --copy-back /GMDBase/quan/gs1/full
+[auto_restore.pl(52)][2017-11-21 11:11:54] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:11:54] 	| main::main
+[TIPS][2017-11-21 11:12:22] Fail:service mysql_3306 restart
+[auto_restore.pl(52)][2017-11-21 11:12:22] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:12:22] 	| main::main
+[auto_restore.pl(52)][2017-11-21 11:15:21] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:15:21] 	| main::main
+[auto_restore.pl(52)][2017-11-21 11:20:14] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:20:14] 	| main::main
+[auto_restore.pl(52)][2017-11-21 11:28:56] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:28:56] 	| main::main
+[auto_restore.pl(52)][2017-11-21 11:53:07] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:53:07] 	| main::main
+[auto_restore.pl(52)][2017-11-21 11:53:32] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:53:32] 	| main::main
+[auto_restore.pl(52)][2017-11-21 11:54:13] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:54:13] 	| main::main
+[auto_restore.pl(52)][2017-11-21 11:54:32] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:54:32] 	| main::main
+[auto_restore.pl(52)][2017-11-21 11:56:35] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:56:35] 	| main::main
+[auto_restore.pl(52)][2017-11-21 11:57:13] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:57:13] 	| main::main
+[auto_restore.pl(52)][2017-11-21 11:59:55] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 11:59:55] 	| main::main
+[auto_restore.pl(52)][2017-11-21 12:02:41] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 12:02:41] 	| main::main
+[auto_restore.pl(52)][2017-11-21 13:34:35] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 13:34:35] 	| main::main
+[auto_restore.pl(52)][2017-11-21 13:35:31] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 13:35:31] 	| main::main
+[auto_restore.pl(52)][2017-11-21 13:41:27] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 13:41:27] 	| main::main
+[auto_restore.pl(52)][2017-11-21 13:41:57] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 13:41:57] 	| main::main
+[auto_restore.pl(52)][2017-11-21 13:42:33] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 13:42:33] 	| main::main
+[auto_restore.pl(52)][2017-11-21 13:50:02] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 13:50:02] 	| main::main
+[auto_restore.pl(52)][2017-11-21 13:51:38] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 13:51:38] 	| main::main
+[auto_restore.pl(52)][2017-11-21 13:52:10] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 13:52:10] 	| main::main
+[TIPS][2017-11-21 14:59:52] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/quan/gs1/full --incremental-dir=/GMDBase/quan/gs1/1511246960_inc
+[auto_restore.pl(52)][2017-11-21 14:59:52] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 14:59:52] 	| main::main
+[TIPS][2017-11-21 14:59:58] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/quan/gs1/full --incremental-dir=/GMDBase/quan/gs1/1511246960_inc
+[auto_restore.pl(52)][2017-11-21 14:59:58] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 14:59:58] 	| main::main
+[TIPS][2017-11-21 15:00:03] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/quan/gs1/full --incremental-dir=/GMDBase/quan/gs1/1511246960_inc
+[auto_restore.pl(52)][2017-11-21 15:00:03] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 15:00:03] 	| main::main
+[auto_restore.pl(52)][2017-11-21 15:02:17] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 15:02:17] 	| main::main
+[auto_restore.pl(52)][2017-11-21 18:42:30] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-21 18:42:30] 	| main::main
+[TIPS][2017-11-22 09:39:21] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[TIPS][2017-11-22 09:39:41] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[TIPS][2017-11-22 09:40:01] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[TIPS][2017-11-22 09:40:21] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[TIPS][2017-11-22 09:49:24] Fail:chown mysql:mysql /GMDB/zhou/gs1 -R
+[auto_restore.pl(52)][2017-11-22 09:49:24] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 09:49:24] 	| main::main
+[TIPS][2017-11-22 09:51:13] Fail:chown mysql:mysql /GMDB/zhou/gs1 -R
+[auto_restore.pl(52)][2017-11-22 09:51:13] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 09:51:13] 	| main::main
+[TIPS][2017-11-22 10:02:01] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[TIPS][2017-11-22 10:02:21] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[TIPS][2017-11-22 10:02:41] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(154)][2017-11-22 10:05:54] dbdatadir at auto_restore.pl line 154.
+[auto_restore.pl(51)][2017-11-22 10:05:54] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 10:05:54] 	| main::main
+[auto_restore.pl(154)][2017-11-22 10:06:25] /GMDB/zhou/gs1 at auto_restore.pl line 154.
+[auto_restore.pl(51)][2017-11-22 10:06:25] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 10:06:25] 	| main::main
+[TIPS][2017-11-22 10:10:13] Fail:chown mysql:mysql /GMDB/quan/gs1 -R
+[TIPS][2017-11-22 10:10:33] Fail:innobackupex --defaults-file=/GMDBase/quan/gs1/copy.cnf --copy-back /GMDBase/quan/gs1/full
+[TIPS][2017-11-22 10:10:53] Fail:innobackupex --defaults-file=/GMDBase/quan/gs1/copy.cnf --copy-back /GMDBase/quan/gs1/full
+[auto_restore.pl(153)][2017-11-22 10:14:09] /GMDBase/quan/gs1/copy.cnf at auto_restore.pl line 153.
+[auto_restore.pl(51)][2017-11-22 10:14:09] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 10:14:09] 	| main::main
+[TIPS][2017-11-22 10:28:30] Fail:chown mysql:mysql /GMDB/zhou/gs1 -R
+[TIPS][2017-11-22 10:28:50] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[TIPS][2017-11-22 10:31:06] Fail:chown mysql:mysql /GMDB/zhou/gs1 -R
+[TIPS][2017-11-22 10:31:26] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[TIPS][2017-11-22 10:34:02] Fail:chown mysql:mysql /GMDB/zhou/gs1 -R
+[TIPS][2017-11-22 10:34:22] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[TIPS][2017-11-22 10:34:42] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[TIPS][2017-11-22 10:50:51] Fail:chown mysql:mysql /GMDB/zhou/gs1 -R
+[TIPS][2017-11-22 10:51:11] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[TIPS][2017-11-22 10:51:31] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[TIPS][2017-11-22 10:51:51] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[TIPS][2017-11-22 10:52:12] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[TIPS][2017-11-22 10:52:34] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[TIPS][2017-11-22 10:53:59] Fail:service mysql restart
+[TIPS][2017-11-22 10:54:22] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-22 10:59:02] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 10:59:02] 	| main::main
+[auto_restore.pl(105)][2017-11-22 11:03:35] Use of uninitialized value $full_file in exists at auto_restore.pl line 105.
+[auto_restore.pl(51)][2017-11-22 11:03:35] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 11:03:35] 	| main::main
+[auto_restore.pl(105)][2017-11-22 11:03:45] Use of uninitialized value $full_file in exists at auto_restore.pl line 105.
+[auto_restore.pl(51)][2017-11-22 11:03:45] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 11:03:45] 	| main::main
+[auto_restore.pl(105)][2017-11-22 11:03:55] Use of uninitialized value $full_file in exists at auto_restore.pl line 105.
+[auto_restore.pl(51)][2017-11-22 11:03:55] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 11:03:55] 	| main::main
+[auto_restore.pl(111)][2017-11-22 11:19:03] 
+[auto_restore.pl(51)][2017-11-22 11:19:03] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 11:19:03] 	| main::main
+[auto_restore.pl(111)][2017-11-22 11:19:27] Died at auto_restore.pl line 111.
+[auto_restore.pl(51)][2017-11-22 11:19:27] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 11:19:27] 	| main::main
+[auto_restore.pl(112)][2017-11-22 11:21:56] 1 at auto_restore.pl line 112.
+[auto_restore.pl(51)][2017-11-22 11:21:56] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 11:21:56] 	| main::main
+[auto_restore.pl(52)][2017-11-22 11:22:15] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 11:22:15] 	| main::main
+[auto_restore.pl(52)][2017-11-22 11:22:26] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 11:22:26] 	| main::main
+[auto_restore.pl(52)][2017-11-22 11:22:35] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 11:22:35] 	| main::main
+[auto_restore.pl(52)][2017-11-22 11:25:15] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 11:25:15] 	| main::main
+[auto_restore.pl(52)][2017-11-22 11:26:18] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 11:26:18] 	| main::main
+[auto_restore.pl(52)][2017-11-22 11:31:29] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 11:31:29] 	| main::main
+[auto_restore.pl(107)][2017-11-22 13:44:26] 1 at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-22 13:44:26] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:44:26] 	| main::main
+[auto_restore.pl(107)][2017-11-22 13:44:41] 1 . 
+[auto_restore.pl(51)][2017-11-22 13:44:41] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:44:41] 	| main::main
+[auto_restore.pl(107)][2017-11-22 13:45:37] %processed_files . 
+[auto_restore.pl(51)][2017-11-22 13:45:37] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:45:37] 	| main::main
+[auto_restore.pl(107)][2017-11-22 13:46:39] g_continue
+[auto_restore.pl(51)][2017-11-22 13:46:39] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:46:39] 	| main::main
+[auto_restore.pl(107)][2017-11-22 13:46:51] 1
+[auto_restore.pl(51)][2017-11-22 13:46:51] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:46:51] 	| main::main
+[auto_restore.pl(109)][2017-11-22 13:47:17] Use of uninitialized value $targetfile in string at auto_restore.pl line 109.
+[auto_restore.pl(51)][2017-11-22 13:47:17] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:47:17] 	| main::main
+[auto_restore.pl(109)][2017-11-22 13:47:17] 
+[auto_restore.pl(51)][2017-11-22 13:47:17] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:47:17] 	| main::main
+[auto_restore.pl(111)][2017-11-22 13:48:20] Use of uninitialized value $targetfile in string at auto_restore.pl line 111.
+[auto_restore.pl(51)][2017-11-22 13:48:20] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:48:20] 	| main::main
+[auto_restore.pl(111)][2017-11-22 13:48:20] 
+[auto_restore.pl(51)][2017-11-22 13:48:20] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:48:20] 	| main::main
+[auto_restore.pl(100)][2017-11-22 13:50:41] 123
+[auto_restore.pl(51)][2017-11-22 13:50:41] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:50:41] 	| main::main
+[auto_restore.pl(113)][2017-11-22 13:51:12] Use of uninitialized value $targetfile in string at auto_restore.pl line 113.
+[auto_restore.pl(51)][2017-11-22 13:51:12] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:51:12] 	| main::main
+[auto_restore.pl(113)][2017-11-22 13:51:12] 
+[auto_restore.pl(51)][2017-11-22 13:51:12] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:51:12] 	| main::main
+[auto_restore.pl(107)][2017-11-22 13:51:30] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-22 13:51:30] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:51:30] 	| main::main
+[auto_restore.pl(113)][2017-11-22 13:51:30] Use of uninitialized value $targetfile in string at auto_restore.pl line 113.
+[auto_restore.pl(51)][2017-11-22 13:51:30] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:51:30] 	| main::main
+[auto_restore.pl(113)][2017-11-22 13:51:30] 
+[auto_restore.pl(51)][2017-11-22 13:51:30] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:51:30] 	| main::main
+[auto_restore.pl(107)][2017-11-22 13:53:13] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-22 13:53:13] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:53:13] 	| main::main
+[auto_restore.pl(113)][2017-11-22 13:53:13] Use of uninitialized value $targetfile in string at auto_restore.pl line 113.
+[auto_restore.pl(51)][2017-11-22 13:53:13] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:53:13] 	| main::main
+[auto_restore.pl(113)][2017-11-22 13:53:13] 
+[auto_restore.pl(51)][2017-11-22 13:53:13] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:53:13] 	| main::main
+[auto_restore.pl(107)][2017-11-22 13:53:33] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-22 13:53:33] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:53:33] 	| main::main
+[auto_restore.pl(113)][2017-11-22 13:53:33] Use of uninitialized value $targetfile in string at auto_restore.pl line 113.
+[auto_restore.pl(51)][2017-11-22 13:53:33] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:53:33] 	| main::main
+[auto_restore.pl(113)][2017-11-22 13:53:33] 
+[auto_restore.pl(51)][2017-11-22 13:53:33] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:53:33] 	| main::main
+[auto_restore.pl(102)][2017-11-22 13:57:10] 123
+[auto_restore.pl(51)][2017-11-22 13:57:10] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:57:10] 	| main::main
+[auto_restore.pl(106)][2017-11-22 13:58:21] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-22 13:58:21] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 13:58:21] 	| main::main
+[auto_restore.pl(52)][2017-11-22 13:58:21] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 13:58:21] 	| main::main
+[auto_restore.pl(52)][2017-11-22 13:59:12] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 13:59:12] 	| main::main
+[auto_restore.pl(174)][2017-11-22 14:13:19] readline() on closed filehandle FH1 at auto_restore.pl line 174.
+[auto_restore.pl(145)][2017-11-22 14:13:19] 	| main::make_copying_cfgfile
+[auto_restore.pl(51)][2017-11-22 14:13:19] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 14:13:19] 	| main::main
+[TIPS][2017-11-22 14:13:19] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-22 14:13:19] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 14:13:19] 	| main::main
+[TIPS][2017-11-22 14:16:19] Fail:service my restart
+[auto_restore.pl(52)][2017-11-22 14:16:19] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 14:16:19] 	| main::main
+[TIPS][2017-11-22 14:36:03] Fail:service my restart
+[auto_restore.pl(52)][2017-11-22 14:36:03] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 14:36:03] 	| main::main
+[TIPS][2017-11-22 14:57:43] Fail:service mysql restart
+[auto_restore.pl(52)][2017-11-22 14:57:43] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 14:57:43] 	| main::main
+[auto_restore.pl(106)][2017-11-22 15:00:12] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-22 15:00:12] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:00:12] 	| main::main
+[auto_restore.pl(52)][2017-11-22 15:00:12] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 15:00:12] 	| main::main
+[auto_restore.pl(106)][2017-11-22 15:01:13] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-22 15:01:13] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:01:13] 	| main::main
+[auto_restore.pl(52)][2017-11-22 15:01:13] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 15:01:13] 	| main::main
+[auto_restore.pl(102)][2017-11-22 15:02:08] 123
+[auto_restore.pl(51)][2017-11-22 15:02:08] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:02:08] 	| main::main
+[auto_restore.pl(106)][2017-11-22 15:02:15] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-22 15:02:15] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:02:15] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:02:15] 234
+[auto_restore.pl(51)][2017-11-22 15:02:15] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:02:15] 	| main::main
+[auto_restore.pl(106)][2017-11-22 15:02:35] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-22 15:02:35] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:02:35] 	| main::main
+[auto_restore.pl(52)][2017-11-22 15:02:35] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 15:02:35] 	| main::main
+[auto_restore.pl(106)][2017-11-22 15:02:50] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-22 15:02:50] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:02:50] 	| main::main
+[auto_restore.pl(162)][2017-11-22 15:02:50] 4
+[auto_restore.pl(51)][2017-11-22 15:02:50] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:02:50] 	| main::main
+[auto_restore.pl(106)][2017-11-22 15:03:08] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-22 15:03:08] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:03:08] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:03:08] 0
+[auto_restore.pl(51)][2017-11-22 15:03:08] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:03:08] 	| main::main
+[auto_restore.pl(106)][2017-11-22 15:03:23] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-22 15:03:23] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:03:23] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:03:23] Use of uninitialized value $full_file in string at auto_restore.pl line 110.
+[auto_restore.pl(51)][2017-11-22 15:03:23] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:03:23] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:03:23] 
+[auto_restore.pl(51)][2017-11-22 15:03:23] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:03:23] 	| main::main
+[auto_restore.pl(106)][2017-11-22 15:03:48] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-22 15:03:48] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:03:48] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:03:48] 1511314720_inc.tar.gz
+[auto_restore.pl(51)][2017-11-22 15:03:48] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:03:48] 	| main::main
+[auto_restore.pl(106)][2017-11-22 15:04:14] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-22 15:04:14] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:04:14] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:04:14] 0
+[auto_restore.pl(51)][2017-11-22 15:04:14] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:04:14] 	| main::main
+[auto_restore.pl(106)][2017-11-22 15:06:59] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-22 15:06:59] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:06:59] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:06:59] 0
+[auto_restore.pl(51)][2017-11-22 15:06:59] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:06:59] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:07:22] 0
+[auto_restore.pl(51)][2017-11-22 15:07:22] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:07:22] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:07:26] 0
+[auto_restore.pl(51)][2017-11-22 15:07:26] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:07:26] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:09:07] 1511314706_full.tar.gz
+[auto_restore.pl(51)][2017-11-22 15:09:07] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:09:07] 	| main::main
+[TIPS][2017-11-22 15:09:53] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-22 15:09:53] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 15:09:53] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:10:11] 1
+[auto_restore.pl(51)][2017-11-22 15:10:11] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:10:11] 	| main::main
+[auto_restore.pl(52)][2017-11-22 15:10:41] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 15:10:41] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:10:56] 1
+[auto_restore.pl(51)][2017-11-22 15:10:56] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:10:56] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:11:04] Use of uninitialized value $targetfile in string at auto_restore.pl line 110.
+[auto_restore.pl(51)][2017-11-22 15:11:04] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:11:04] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:11:04] 
+[auto_restore.pl(51)][2017-11-22 15:11:04] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:11:04] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:12:10] 1511314720_inc.tar.gz
+[auto_restore.pl(51)][2017-11-22 15:12:10] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:12:10] 	| main::main
+[auto_restore.pl(114)][2017-11-22 15:12:55] 1
+[auto_restore.pl(51)][2017-11-22 15:12:55] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:12:55] 	| main::main
+[TIPS][2017-11-22 15:13:02] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/zhou/gs1/full --incremental-dir=/GMDBase/zhou/gs1/1511314720_inc
+[auto_restore.pl(52)][2017-11-22 15:13:02] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 15:13:02] 	| main::main
+[TIPS][2017-11-22 15:30:39] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full --incremental-dir=/GMDBase/zhou/gs1/1511314720_inc
+[auto_restore.pl(52)][2017-11-22 15:30:39] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 15:30:39] 	| main::main
+[TIPS][2017-11-22 15:34:36] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-22 15:34:36] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 15:34:36] 	| main::main
+[auto_restore.pl(52)][2017-11-22 15:35:07] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 15:35:07] 	| main::main
+[auto_restore.pl(52)][2017-11-22 15:37:52] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 15:37:52] 	| main::main
+[auto_restore.pl(106)][2017-11-22 15:38:18] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-22 15:38:18] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:38:18] 	| main::main
+[auto_restore.pl(52)][2017-11-22 15:38:18] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 15:38:18] 	| main::main
+[auto_restore.pl(106)][2017-11-22 15:39:09] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-22 15:39:09] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:39:09] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:39:09] 1511314720_inc.tar.gz
+[auto_restore.pl(51)][2017-11-22 15:39:09] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:39:09] 	| main::main
+[auto_restore.pl(106)][2017-11-22 15:39:27] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-22 15:39:27] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:39:27] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:39:27] 1511314720_inc.tar.gz
+[auto_restore.pl(51)][2017-11-22 15:39:27] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:39:27] 	| main::main
+[auto_restore.pl(106)][2017-11-22 15:39:36] Use of uninitialized value $full_file in exists at auto_restore.pl line 106.
+[auto_restore.pl(51)][2017-11-22 15:39:36] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:39:36] 	| main::main
+[auto_restore.pl(110)][2017-11-22 15:39:36] 0
+[auto_restore.pl(51)][2017-11-22 15:39:36] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:39:36] 	| main::main
+[auto_restore.pl(107)][2017-11-22 15:40:51] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-22 15:40:51] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:40:51] 	| main::main
+[auto_restore.pl(112)][2017-11-22 15:40:51] 0
+[auto_restore.pl(51)][2017-11-22 15:40:51] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:40:51] 	| main::main
+[auto_restore.pl(107)][2017-11-22 15:41:54] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-22 15:41:54] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:41:54] 	| main::main
+[auto_restore.pl(112)][2017-11-22 15:41:54] 0
+[auto_restore.pl(51)][2017-11-22 15:41:54] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:41:54] 	| main::main
+[auto_restore.pl(112)][2017-11-22 15:42:32] 1
+[auto_restore.pl(51)][2017-11-22 15:42:32] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:42:32] 	| main::main
+[auto_restore.pl(116)][2017-11-22 15:43:10] 1
+[auto_restore.pl(51)][2017-11-22 15:43:10] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:43:10] 	| main::main
+[TIPS][2017-11-22 15:43:24] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-22 15:43:24] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 15:43:24] 	| main::main
+[auto_restore.pl(52)][2017-11-22 15:45:28] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 15:45:28] 	| main::main
+[auto_restore.pl(112)][2017-11-22 15:45:48] Use of uninitialized value $targetfile in string at auto_restore.pl line 112.
+[auto_restore.pl(51)][2017-11-22 15:45:48] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:45:48] 	| main::main
+[auto_restore.pl(112)][2017-11-22 15:45:48] 
+[auto_restore.pl(51)][2017-11-22 15:45:48] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:45:48] 	| main::main
+[auto_restore.pl(112)][2017-11-22 15:45:55] 1
+[auto_restore.pl(51)][2017-11-22 15:45:55] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:45:55] 	| main::main
+[auto_restore.pl(112)][2017-11-22 15:48:05] 1
+[auto_restore.pl(51)][2017-11-22 15:48:05] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:48:05] 	| main::main
+[auto_restore.pl(147)][2017-11-22 15:48:17] 3
+[auto_restore.pl(51)][2017-11-22 15:48:17] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:48:17] 	| main::main
+[auto_restore.pl(112)][2017-11-22 15:49:44] Use of uninitialized value within %isneedcopybak in string at auto_restore.pl line 112.
+[auto_restore.pl(51)][2017-11-22 15:49:44] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:49:44] 	| main::main
+[auto_restore.pl(112)][2017-11-22 15:49:44] 
+[auto_restore.pl(51)][2017-11-22 15:49:44] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:49:44] 	| main::main
+[auto_restore.pl(112)][2017-11-22 15:50:41] Use of uninitialized value within %isneedcopybak in string at auto_restore.pl line 112.
+[auto_restore.pl(51)][2017-11-22 15:50:41] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:50:41] 	| main::main
+[auto_restore.pl(112)][2017-11-22 15:50:41] 
+[auto_restore.pl(51)][2017-11-22 15:50:41] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-22 15:50:41] 	| main::main
+[auto_restore.pl(52)][2017-11-22 15:50:57] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 15:50:57] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:05:26] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:05:26] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:09:52] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:09:52] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:11:35] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:11:35] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:12:58] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:12:58] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:13:11] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:13:11] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:13:22] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:13:22] 	| main::main
+[TIPS][2017-11-22 16:13:43] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-22 16:13:43] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:13:43] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:17:13] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:17:13] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:17:22] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:17:22] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:17:36] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:17:36] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:17:50] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:17:50] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:17:59] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:17:59] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:18:10] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:18:10] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:21:06] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:21:06] 	| main::main
+[TIPS][2017-11-22 16:21:29] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-22 16:21:29] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:21:29] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:22:44] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:22:44] 	| main::main
+[TIPS][2017-11-22 16:22:54] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-22 16:22:54] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:22:54] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:22:59] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:22:59] 	| main::main
+[TIPS][2017-11-22 16:23:07] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-22 16:23:07] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:23:07] 	| main::main
+[TIPS][2017-11-22 16:23:24] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-22 16:23:24] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:23:24] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:39:59] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:39:59] 	| main::main
+[TIPS][2017-11-22 16:40:10] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc
+[auto_restore.pl(52)][2017-11-22 16:40:10] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:40:10] 	| main::main
+[TIPS][2017-11-22 16:41:19] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc  --user=robin -password=xxx --port=3606 --socket=/tmp/mysql3606.sock
+[auto_restore.pl(52)][2017-11-22 16:41:19] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:41:19] 	| main::main
+[TIPS][2017-11-22 16:41:45] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc  --user=root -password=123456 --port=3606 --socket=/tmp/mysql3606.sock
+[auto_restore.pl(52)][2017-11-22 16:41:45] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:41:45] 	| main::main
+[TIPS][2017-11-22 16:43:03] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc  --user=root -password=123456 --port=3306 --socket=/tmp/mysql3306.sock
+[auto_restore.pl(52)][2017-11-22 16:43:03] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:43:03] 	| main::main
+[TIPS][2017-11-22 16:46:06] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc  --user=root -password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-22 16:46:06] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:46:06] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:47:04] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:47:04] 	| main::main
+[TIPS][2017-11-22 16:47:10] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc  --user=root -password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-22 16:47:10] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:47:10] 	| main::main
+[auto_restore.pl(52)][2017-11-22 16:50:24] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:50:24] 	| main::main
+[TIPS][2017-11-22 16:50:43] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc/  --user=root -password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-22 16:50:43] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:50:43] 	| main::main
+[TIPS][2017-11-22 16:51:37] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-22 16:51:37] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:51:37] 	| main::main
+[TIPS][2017-11-22 16:51:53] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-22 16:51:53] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:51:53] 	| main::main
+[TIPS][2017-11-22 16:52:13] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-22 16:52:13] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 16:52:13] 	| main::main
+[auto_restore.pl(52)][2017-11-22 17:08:54] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 17:08:54] 	| main::main
+[TIPS][2017-11-22 17:09:30] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-22 17:09:30] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-22 17:09:30] 	| main::main

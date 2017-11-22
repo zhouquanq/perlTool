@@ -1,0 +1,17 @@
+[auto_restorebak.pl(30)][2017-11-22 11:54:10] cfg file: 'auto_restorebak.cfg' not exists! at auto_restorebak.pl line 30.
+[auto_restorebak.pl(21)][2017-11-22 11:54:10] 	| main::main
+[TIPS][2017-11-22 11:54:54] Fail:innobackupex --copy-back --defaults-file=/GMDBase/zhou/gs1/copy.cnf /GMDBase/zhou/gs1/full
+[auto_restorebak.pl(53)][2017-11-22 11:54:54] -----Done!------ at auto_restorebak.pl line 53.
+[auto_restorebak.pl(21)][2017-11-22 11:54:54] 	| main::main
+[auto_restorebak.pl(53)][2017-11-22 11:56:39] -----Done!------ at auto_restorebak.pl line 53.
+[auto_restorebak.pl(21)][2017-11-22 11:56:39] 	| main::main
+[auto_restorebak.pl(53)][2017-11-22 11:59:05] -----Done!------ at auto_restorebak.pl line 53.
+[auto_restorebak.pl(21)][2017-11-22 11:59:05] 	| main::main
+[TIPS][2017-11-22 12:00:02] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restorebak.pl(53)][2017-11-22 12:00:02] -----Done!------ at auto_restorebak.pl line 53.
+[auto_restorebak.pl(21)][2017-11-22 12:00:02] 	| main::main
+[auto_restorebak.pl(107)][2017-11-22 12:00:18] Use of uninitialized value $full_file in exists at auto_restorebak.pl line 107.
+[auto_restorebak.pl(51)][2017-11-22 12:00:18] 	| main::dbrebuild
+[auto_restorebak.pl(21)][2017-11-22 12:00:18] 	| main::main
+[auto_restorebak.pl(53)][2017-11-22 12:00:18] -----Done!------ at auto_restorebak.pl line 53.
+[auto_restorebak.pl(21)][2017-11-22 12:00:18] 	| main::main

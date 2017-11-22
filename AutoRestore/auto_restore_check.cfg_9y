@@ -1,0 +1,29 @@
+[restore]
+workpath = /GMDBase_9y
+dbdatadir = /GMDB_9y
+dbsrvname = mysql_6036
+port = 6036
+dstconinfo = host,localhost, port,3306, user,root, name,db_restore_info, pass,revbHEpB9NUftrhh4Q2
+
+[ftp]
+server = 192.168.123.3
+port = 21
+passive = 1
+username = gm_tools
+password = syxOzpz6CoBRGqUC2Frx
+ext = gz
+filter_ext = 1
+ftp_to_dir = /backup/tmpDBData_9y
+
+
+[lyios_db]
+ftp_from_base = /GMAutodown/lyios_db
+srcdb = host,183.233.224.194, port,13306, user,sdb, name,sdb_lyios,  pass,qJe9esl6mE7E9N
+
+[ly9y_db]
+ftp_from_base = /GMAutodown/ly9y_db
+srcdb = host,183.233.224.194, port,13306, user,sdb, name,sdb_ly9y,  pass,qJe9esl6mE7E9N
+
+[zs9y_db]
+ftp_from_base = /GMAutodown/zs9y_db
+srcdb = host,183.233.224.194, port,13306, user,sdb, name,sdb_zs9y,  pass,qJe9esl6mE7E9N

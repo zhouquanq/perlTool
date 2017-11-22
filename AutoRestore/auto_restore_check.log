@@ -1,0 +1,61 @@
+[auto_restore_check.pl(40)][2017-11-20 17:38:03] cfg file: 'auto_restore_check.cfg' not exists! at auto_restore_check.pl line 40.
+[auto_restore_check.pl(28)][2017-11-20 17:38:03] 	| main::main
+[auto_restore_check.pl(27)][2017-11-20 17:38:03] 	| (eval)
+[TIPS][2017-11-20 17:38:03] deadly wrong:cfg file: 'auto_restore_check.cfg' not exists! at auto_restore_check.pl line 40.
+
+[TIPS][2017-11-20 17:39:55] %%%%%%%%%%%%%%%% service start %%%%%%%%%%%%%%%%
+[auto_restore_check.pl(71)][2017-11-20 17:39:55] Use of uninitialized value $ext in split at auto_restore_check.pl line 71.
+[auto_restore_check.pl(28)][2017-11-20 17:39:55] 	| main::main
+[auto_restore_check.pl(27)][2017-11-20 17:39:55] 	| (eval)
+[TIPS][2017-11-20 17:40:05] %%%%%%%%%%%%%%%% service end %%%%%%%%%%%%%%%%
+[TIPS][2017-11-20 17:40:05] %%%%%%%%%%%%%%%% service start %%%%%%%%%%%%%%%%
+[auto_restore_check.pl(71)][2017-11-20 17:40:05] Use of uninitialized value $ext in split at auto_restore_check.pl line 71.
+[auto_restore_check.pl(28)][2017-11-20 17:40:05] 	| main::main
+[auto_restore_check.pl(27)][2017-11-20 17:40:05] 	| (eval)
+[TIPS][2017-11-20 17:40:15] %%%%%%%%%%%%%%%% service end %%%%%%%%%%%%%%%%
+[TIPS][2017-11-20 17:40:15] %%%%%%%%%%%%%%%% service start %%%%%%%%%%%%%%%%
+[auto_restore_check.pl(71)][2017-11-20 17:40:15] Use of uninitialized value $ext in split at auto_restore_check.pl line 71.
+[auto_restore_check.pl(28)][2017-11-20 17:40:15] 	| main::main
+[auto_restore_check.pl(27)][2017-11-20 17:40:15] 	| (eval)
+[TIPS][2017-11-20 17:41:56] %%%%%%%%%%%%%%%% service start %%%%%%%%%%%%%%%%
+[/LocalTools//common.pl(4)][2017-11-20 17:43:00] Can't locate Archive/Zip.pm in @INC (@INC contains: /usr/local/lib64/perl5 /usr/local/share/perl5 /usr/lib64/perl5/vendor_perl /usr/share/perl5/vendor_perl /usr/lib64/perl5 /usr/share/perl5 . /LocalTools/AutoRestore /LocalTools/) at /LocalTools//common.pl line 4.
+[/LocalTools//common.pl(4)][2017-11-20 17:43:00] 	| main::BEGIN
+[/LocalTools//common.pl(4)][2017-11-20 17:43:00] 	| (eval)
+[auto_restore_check.pl(16)][2017-11-20 17:43:00] 	| (eval)
+[/LocalTools//common.pl(4)][2017-11-20 17:43:00] Can't locate Archive/Zip.pm in @INC (@INC contains: /usr/local/lib64/perl5 /usr/local/share/perl5 /usr/lib64/perl5/vendor_perl /usr/share/perl5/vendor_perl /usr/lib64/perl5 /usr/share/perl5 . /LocalTools/AutoRestore /LocalTools/) at /LocalTools//common.pl line 4.
+BEGIN failed--compilation aborted at /LocalTools//common.pl line 4.
+[auto_restore_check.pl(16)][2017-11-20 17:43:00] 	| (eval)
+[auto_restore_check.pl(16)][2017-11-20 17:43:00] Can't locate Archive/Zip.pm in @INC (@INC contains: /usr/local/lib64/perl5 /usr/local/share/perl5 /usr/lib64/perl5/vendor_perl /usr/share/perl5/vendor_perl /usr/lib64/perl5 /usr/share/perl5 . /LocalTools/AutoRestore /LocalTools/) at /LocalTools//common.pl line 4.
+BEGIN failed--compilation aborted at /LocalTools//common.pl line 4.
+Compilation failed in require at auto_restore_check.pl line 16.
+[TIPS][2017-11-20 17:43:05] %%%%%%%%%%%%%%%% service start %%%%%%%%%%%%%%%%
+[/opt/ActivePerl-5.14/lib/Carp.pm(102)][2017-11-20 17:45:12] DBI connect('database=sdb_lywm;host=192.168.123.10;port=3306','sdb',...) failed: Can't connect to MySQL server on '192.168.123.10' (110) at /LocalTools//MysqlX.pm line 44
+[/opt/ActivePerl-5.14/site/lib/DBI.pm(672)][2017-11-20 17:45:12] 	| Carp::carp
+[/opt/ActivePerl-5.14/site/lib/DBI.pm(727)][2017-11-20 17:45:12] 	| DBI::__ANON__
+[/LocalTools//MysqlX.pm(44)][2017-11-20 17:45:12] 	| DBI::connect
+[auto_restore_check.pl(93)][2017-11-20 17:45:12] 	| MysqlX::genConn
+[auto_restore_check.pl(28)][2017-11-20 17:45:12] 	| main::main
+[auto_restore_check.pl(27)][2017-11-20 17:45:12] 	| (eval)
+[/LocalTools//MysqlX.pm(53)][2017-11-20 17:45:12] Can't connect to DBI:mysql:database=sdb_lywm;host=192.168.123.10;port=3306: Can't connect to MySQL server on '192.168.123.10' (110) at /LocalTools//MysqlX.pm line 53.
+[auto_restore_check.pl(93)][2017-11-20 17:45:12] 	| MysqlX::genConn
+[auto_restore_check.pl(28)][2017-11-20 17:45:12] 	| main::main
+[auto_restore_check.pl(27)][2017-11-20 17:45:12] 	| (eval)
+[TIPS][2017-11-20 17:45:12] deadly wrong:Can't connect to DBI:mysql:database=sdb_lywm;host=192.168.123.10;port=3306: Can't connect to MySQL server on '192.168.123.10' (110) at /LocalTools//MysqlX.pm line 53.
+
+[TIPS][2017-11-20 17:48:30] %%%%%%%%%%%%%%%% service start %%%%%%%%%%%%%%%%
+[/LocalTools//MysqlX.pm(394)][2017-11-20 17:48:30] DBD::mysql::st execute failed: Table 'test.needrunserver' doesn't exist at /LocalTools//MysqlX.pm line 394.
+[/LocalTools//MysqlX.pm(251)][2017-11-20 17:48:30] 	| MysqlX::_query
+[auto_restore_check.pl(100)][2017-11-20 17:48:30] 	| MysqlX::fetchAll
+[auto_restore_check.pl(28)][2017-11-20 17:48:30] 	| main::main
+[auto_restore_check.pl(27)][2017-11-20 17:48:30] 	| (eval)
+[/LocalTools//MysqlX.pm(396)][2017-11-20 17:48:30] execute sqlstatement 
+					SELECT * FROM needrunserver WHERE theday = '2017-11-20' GROUP BY serverid
+				 error:Table 'test.needrunserver' doesn't exist at /LocalTools//MysqlX.pm line 396.
+[/LocalTools//MysqlX.pm(251)][2017-11-20 17:48:30] 	| MysqlX::_query
+[auto_restore_check.pl(100)][2017-11-20 17:48:30] 	| MysqlX::fetchAll
+[auto_restore_check.pl(28)][2017-11-20 17:48:30] 	| main::main
+[auto_restore_check.pl(27)][2017-11-20 17:48:30] 	| (eval)
+[TIPS][2017-11-20 17:48:30] deadly wrong:execute sqlstatement 
+					SELECT * FROM needrunserver WHERE theday = '2017-11-20' GROUP BY serverid
+				 error:Table 'test.needrunserver' doesn't exist at /LocalTools//MysqlX.pm line 396.
+

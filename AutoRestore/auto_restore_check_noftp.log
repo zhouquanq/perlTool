@@ -1,0 +1,24 @@
+[TIPS][2017-11-20 17:46:34] %%%%%%%%%%%%%%%% service start %%%%%%%%%%%%%%%%
+[auto_restore_check_noftp.pl(71)][2017-11-20 17:46:34] Use of uninitialized value $ext in split at auto_restore_check_noftp.pl line 71.
+[auto_restore_check_noftp.pl(28)][2017-11-20 17:46:34] 	| main::main
+[auto_restore_check_noftp.pl(27)][2017-11-20 17:46:34] 	| (eval)
+[TIPS][2017-11-20 17:47:27] %%%%%%%%%%%%%%%% service start %%%%%%%%%%%%%%%%
+[auto_restore_check_noftp.pl(71)][2017-11-20 17:47:27] Use of uninitialized value $ext in split at auto_restore_check_noftp.pl line 71.
+[auto_restore_check_noftp.pl(28)][2017-11-20 17:47:27] 	| main::main
+[auto_restore_check_noftp.pl(27)][2017-11-20 17:47:27] 	| (eval)
+[/LocalTools//MysqlX.pm(394)][2017-11-20 17:47:27] DBD::mysql::st execute failed: Table 'test.needrunserver' doesn't exist at /LocalTools//MysqlX.pm line 394.
+[/LocalTools//MysqlX.pm(251)][2017-11-20 17:47:27] 	| MysqlX::_query
+[auto_restore_check_noftp.pl(102)][2017-11-20 17:47:27] 	| MysqlX::fetchAll
+[auto_restore_check_noftp.pl(28)][2017-11-20 17:47:27] 	| main::main
+[auto_restore_check_noftp.pl(27)][2017-11-20 17:47:27] 	| (eval)
+[/LocalTools//MysqlX.pm(396)][2017-11-20 17:47:27] execute sqlstatement 
+					SELECT * FROM needrunserver WHERE theday = '2017-11-20' GROUP BY serverid
+				 error:Table 'test.needrunserver' doesn't exist at /LocalTools//MysqlX.pm line 396.
+[/LocalTools//MysqlX.pm(251)][2017-11-20 17:47:27] 	| MysqlX::_query
+[auto_restore_check_noftp.pl(102)][2017-11-20 17:47:27] 	| MysqlX::fetchAll
+[auto_restore_check_noftp.pl(28)][2017-11-20 17:47:27] 	| main::main
+[auto_restore_check_noftp.pl(27)][2017-11-20 17:47:27] 	| (eval)
+[TIPS][2017-11-20 17:47:27] deadly wrong:execute sqlstatement 
+					SELECT * FROM needrunserver WHERE theday = '2017-11-20' GROUP BY serverid
+				 error:Table 'test.needrunserver' doesn't exist at /LocalTools//MysqlX.pm line 396.
+
