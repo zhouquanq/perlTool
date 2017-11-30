@@ -819,3 +819,11 @@
 [auto_bak.pl(234)][2017-11-21 14:29:52] 	| main::diecmd
 [auto_bak.pl(100)][2017-11-21 14:29:52] 	| main::dbackup2
 [auto_bak.pl(30)][2017-11-21 14:29:52] 	| main::main
+[auto_bak.pl(450)][2017-11-21 18:32:49] Fail:GZIP="-9" tar -zcvf /GMDBackup/1511260363_full.tar.gz -C /GMDBackup full at auto_bak.pl line 450.
+[auto_bak.pl(183)][2017-11-21 18:32:49] 	| main::diecmd
+[auto_bak.pl(100)][2017-11-21 18:32:49] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-21 18:32:49] 	| main::main
+[auto_bak.pl(450)][2017-11-22 09:39:50] Fail:innobackupex --defaults-file=/backup/config/3306.cnf --user=root --password=123456 --host=127.0.0.1 --port=3306 --no-lock --no-timestamp --incremental --incremental-basedir=/GMDBackup/1511314720_inc /GMDBackup/1511314769_inc at auto_bak.pl line 450.
+[auto_bak.pl(234)][2017-11-22 09:39:50] 	| main::diecmd
+[auto_bak.pl(100)][2017-11-22 09:39:50] 	| main::dbackup2
+[auto_bak.pl(30)][2017-11-22 09:39:50] 	| main::main

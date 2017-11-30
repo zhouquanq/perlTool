@@ -1,0 +1,23 @@
+[2017-11-23 14:35:23][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-23 14:37:08][ftp_load.pl(226)] /data/db/1511418982_full.tar.gz upload file
+[2017-11-23 14:37:08][ftp_load.pl(294)] start upload file /data/db/1511418982_full.tar.gz
+[2017-11-23 14:37:09][ftp_load.pl(308)] transfer 445480/445480 /data/db/1511418982_full.tar.gz
+[2017-11-23 14:37:09][ftp_load.pl(310)] end upload file /data/db/1511418982_full.tar.gz
+[2017-11-23 14:37:41][ftp_load.pl(226)] /data/db/1511418982_full.tar.gz upload file
+[2017-11-23 14:37:41][ftp_load.pl(279)] /data/db/1511418982_full.tar.gz Upload success!
+[2017-11-23 14:37:41][ftp_load.pl(282)] /data/db/1511418982_full.tar.gz delete success!
+[2017-11-23 14:38:41][ftp_load.pl(226)] /data/db/1511419016_inc.tar.gz upload file
+[2017-11-23 14:38:41][ftp_load.pl(294)] start upload file /data/db/1511419016_inc.tar.gz
+[2017-11-23 14:38:41][ftp_load.pl(308)] transfer 235710/235710 /data/db/1511419016_inc.tar.gz
+[2017-11-23 14:38:41][ftp_load.pl(310)] end upload file /data/db/1511419016_inc.tar.gz
+[2017-11-23 14:39:02][ftp_load.pl(226)] /data/db/1511419016_inc.tar.gz upload file
+[2017-11-23 14:39:02][ftp_load.pl(279)] /data/db/1511419016_inc.tar.gz Upload success!
+[2017-11-23 14:39:02][ftp_load.pl(282)] /data/db/1511419016_inc.tar.gz delete success!
+[2017-11-23 14:39:32][ftp_load.pl(226)] /data/db/1511419128_inc.tar.gz upload file
+[2017-11-23 14:39:32][ftp_load.pl(294)] start upload file /data/db/1511419128_inc.tar.gz
+[2017-11-23 14:39:32][ftp_load.pl(308)] transfer 235146/235146 /data/db/1511419128_inc.tar.gz
+[2017-11-23 14:39:32][ftp_load.pl(310)] end upload file /data/db/1511419128_inc.tar.gz
+[2017-11-23 14:40:03][ftp_load.pl(226)] /data/db/1511419128_inc.tar.gz upload file
+[2017-11-23 14:40:03][ftp_load.pl(279)] /data/db/1511419128_inc.tar.gz Upload success!
+[2017-11-23 14:40:03][ftp_load.pl(282)] /data/db/1511419128_inc.tar.gz delete success!
+[2017-11-23 14:40:32][ftp_load.pl(149)] =================== 服务器停止 ===================

@@ -49,8 +49,8 @@ sub main
         foreach my $section(@{$cfg_ini}) {
             if ($section->{'name'} eq "restore") {
                 dbrebuild($section);
-                die "------Done!------";
-                # sleep(10);
+                # die "------Done!------";
+                sleep(10);
             }
         }
 
@@ -108,19 +108,15 @@ sub dbrebuild
 
         #已添加全量与增量的备份
         my $targetfile = shift @newfiles;
-
-        # die "$isneedcopybak{$dbsrvname}" ,"\n";
-         
         while ($g_continue) {
             if ($isfullprocessed && defined($targetfile)) {  
-                
                 print "processing file: $targetfile\n"; 
                 my ($dirname) = $targetfile =~ /(\d+_inc)/;
 
                 return if logcmd("tar -zxvf $downpath/$targetfile -C $workpath");
+                # return if logcmd("innobackupex --defaults-file=$dbconfigfile --apply-log $workpath/full --incremental-dir=$workpath/$dirname --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock");
+                return if logcmd("innobackupex --defaults-file=$dbconfigfile --apply-log --redo-only $workpath/full --incremental-dir=$workpath/$dirname");
 
-                return if logcmd("innobackupex --defaults-file=$dbconfigfile --apply-log-only $workpath/full/ --incremental-dir=$workpath/$dirname/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock");
-                                #innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511314720_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock              
                 append_processed_files($processed_log, lc($targetfile));
                 
                 rmtree("$workpath/$dirname");
@@ -129,7 +125,6 @@ sub dbrebuild
                 $targetfile = shift @newfiles;
 
             } elsif (0 == $isfullprocessed && defined($full_file)) {
-                # die "2" ,"\n";
                 print "processing file: $full_file\n";  
 
                 rmtree("$workpath/full");
@@ -144,22 +139,21 @@ sub dbrebuild
                 $isfullprocessed = 1;
 
             } elsif ($isneedcopybak{$dbsrvname}) { 
-            # die "3" ,"\n";   
                 print "copying DB data. DB is going to restart!\n"; 
                 
                 rmtree($dbdatadir.'_copying');
-                mkpath($dbdatadir.'_copying');                
+                mkpath($dbdatadir.'_copying');
                 my $dbcfg4copy = make_copying_cfgfile($dbconfigfile, $workpath);
+                return if logcmd("rm -rf /var/lib/mysql_copying/*");  
                 return if logcmd("innobackupex --defaults-file=$dbcfg4copy --copy-back $workpath/full");            
                 # return if logcmd("innobackupex --copy-back --defaults-file=$dbcfg4copy $workpath/full");
-
                 rmtree($dbdatadir);
                 rename($dbdatadir.'_copying', $dbdatadir);
-
                 # return if logcmd("chown -R mysql:mysql $dbdatadir ");
                 return if logcmd("chown -R mysql:mysql /var/lib/mysql_copying/");
 
-                return if logcmd("service $dbsrvname restart");
+                return if logcmd("systemctl restart $dbsrvname ");
+
                 # sleep(5);
 
                 $isneedcopybak{$dbsrvname} = 0;

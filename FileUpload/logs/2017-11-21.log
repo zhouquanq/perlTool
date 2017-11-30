@@ -75,3 +75,23 @@
 [2017-11-21 16:04:17][ftp_load.pl(308)] transfer 235096/235096 /data/db/1511251375_inc.tar.gz
 [2017-11-21 16:04:17][ftp_load.pl(310)] end upload file /data/db/1511251375_inc.tar.gz
 [2017-11-21 16:04:26][ftp_load.pl(149)] =================== 服务器停止 ===================
+[2017-11-21 18:36:13][ftp_load.pl(92)] =================== 服务器开启 ===================
+[2017-11-21 18:36:13][ftp_load.pl(226)] /data/db/1511260390_full.tar.gz upload file
+[2017-11-21 18:36:13][ftp_load.pl(294)] start upload file /data/db/1511260390_full.tar.gz
+[2017-11-21 18:36:13][ftp_load.pl(308)] transfer 442481/442481 /data/db/1511260390_full.tar.gz
+[2017-11-21 18:36:13][ftp_load.pl(310)] end upload file /data/db/1511260390_full.tar.gz
+[2017-11-21 18:36:33][ftp_load.pl(226)] /data/db/1511260390_full.tar.gz upload file
+[2017-11-21 18:36:33][ftp_load.pl(279)] /data/db/1511260390_full.tar.gz Upload success!
+[2017-11-21 18:36:33][ftp_load.pl(282)] /data/db/1511260390_full.tar.gz delete success!
+[2017-11-21 18:36:53][ftp_load.pl(226)] /data/db/1511260406_inc.tar.gz upload file
+[2017-11-21 18:36:53][ftp_load.pl(294)] start upload file /data/db/1511260406_inc.tar.gz
+[2017-11-21 18:36:53][ftp_load.pl(308)] transfer 235095/235095 /data/db/1511260406_inc.tar.gz
+[2017-11-21 18:36:53][ftp_load.pl(310)] end upload file /data/db/1511260406_inc.tar.gz
+[2017-11-21 18:37:13][ftp_load.pl(226)] /data/db/1511260406_inc.tar.gz upload file
+[2017-11-21 18:37:13][ftp_load.pl(279)] /data/db/1511260406_inc.tar.gz Upload success!
+[2017-11-21 18:37:13][ftp_load.pl(282)] /data/db/1511260406_inc.tar.gz delete success!
+[2017-11-21 18:37:33][ftp_load.pl(226)] /data/db/1511260444_inc.tar.gz upload file
+[2017-11-21 18:37:33][ftp_load.pl(294)] start upload file /data/db/1511260444_inc.tar.gz
+[2017-11-21 18:37:33][ftp_load.pl(308)] transfer 235090/235090 /data/db/1511260444_inc.tar.gz
+[2017-11-21 18:37:33][ftp_load.pl(310)] end upload file /data/db/1511260444_inc.tar.gz
+[2017-11-21 18:37:39][ftp_load.pl(149)] =================== 服务器停止 ===================

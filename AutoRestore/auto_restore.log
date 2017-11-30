@@ -764,3 +764,296 @@
 [TIPS][2017-11-22 17:09:30] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
 [auto_restore.pl(52)][2017-11-22 17:09:30] ------Done!------ at auto_restore.pl line 52.
 [auto_restore.pl(21)][2017-11-22 17:09:30] 	| main::main
+[auto_restore.pl(52)][2017-11-23 09:38:23] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 09:38:23] 	| main::main
+[auto_restore.pl(52)][2017-11-23 09:39:20] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 09:39:20] 	| main::main
+[auto_restore.pl(52)][2017-11-23 09:39:50] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 09:39:50] 	| main::main
+[auto_restore.pl(52)][2017-11-23 09:41:40] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 09:41:40] 	| main::main
+[auto_restore.pl(52)][2017-11-23 09:45:13] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 09:45:13] 	| main::main
+[auto_restore.pl(52)][2017-11-23 09:45:41] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 09:45:41] 	| main::main
+[auto_restore.pl(52)][2017-11-23 09:57:02] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 09:57:02] 	| main::main
+[auto_restore.pl(52)][2017-11-23 09:57:26] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 09:57:26] 	| main::main
+[TIPS][2017-11-23 09:57:49] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-23 09:57:49] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 09:57:49] 	| main::main
+[TIPS][2017-11-23 09:58:24] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-23 09:58:24] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 09:58:24] 	| main::main
+[TIPS][2017-11-23 09:59:22] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-23 09:59:22] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 09:59:22] 	| main::main
+[auto_restore.pl(52)][2017-11-23 10:01:13] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:01:13] 	| main::main
+[TIPS][2017-11-23 10:01:30] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-23 10:01:30] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:01:30] 	| main::main
+[auto_restore.pl(52)][2017-11-23 10:02:10] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:02:10] 	| main::main
+[auto_restore.pl(52)][2017-11-23 10:02:25] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:02:25] 	| main::main
+[auto_restore.pl(52)][2017-11-23 10:03:01] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:03:01] 	| main::main
+[auto_restore.pl(52)][2017-11-23 10:10:25] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:10:25] 	| main::main
+[auto_restore.pl(52)][2017-11-23 10:10:50] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:10:50] 	| main::main
+[TIPS][2017-11-23 10:11:27] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-23 10:11:27] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:11:27] 	| main::main
+[auto_restore.pl(52)][2017-11-23 10:22:07] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:22:07] 	| main::main
+[auto_restore.pl(52)][2017-11-23 10:22:36] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:22:36] 	| main::main
+[TIPS][2017-11-23 10:22:45] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-23 10:22:45] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:22:45] 	| main::main
+[auto_restore.pl(52)][2017-11-23 10:24:37] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:24:37] 	| main::main
+[auto_restore.pl(52)][2017-11-23 10:41:45] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:41:45] 	| main::main
+[TIPS][2017-11-23 10:41:58] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-23 10:41:58] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:41:58] 	| main::main
+[auto_restore.pl(154)][2017-11-23 10:42:22] /GMDB/zhou/gs1
+[auto_restore.pl(51)][2017-11-23 10:42:22] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 10:42:22] 	| main::main
+[auto_restore.pl(52)][2017-11-23 10:44:28] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:44:28] 	| main::main
+[auto_restore.pl(154)][2017-11-23 10:44:45] /var/lib/mysql
+[auto_restore.pl(51)][2017-11-23 10:44:45] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 10:44:45] 	| main::main
+[auto_restore.pl(52)][2017-11-23 10:47:13] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:47:13] 	| main::main
+[auto_restore.pl(155)][2017-11-23 10:49:08] dbdatadir at auto_restore.pl line 155.
+[auto_restore.pl(51)][2017-11-23 10:49:08] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 10:49:08] 	| main::main
+[auto_restore.pl(155)][2017-11-23 10:49:41] /var/lib/mysql at auto_restore.pl line 155.
+[auto_restore.pl(51)][2017-11-23 10:49:41] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 10:49:41] 	| main::main
+[TIPS][2017-11-23 10:54:08] Fail:chown -R mysql:mysql /var/lib/mysql_copying/
+[auto_restore.pl(52)][2017-11-23 10:54:08] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:54:08] 	| main::main
+[TIPS][2017-11-23 10:56:11] Fail:service mysql restart
+[auto_restore.pl(52)][2017-11-23 10:56:11] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:56:11] 	| main::main
+[TIPS][2017-11-23 10:57:20] Fail:service mysql restart
+[auto_restore.pl(52)][2017-11-23 10:57:20] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 10:57:20] 	| main::main
+[TIPS][2017-11-23 11:07:30] Fail:innobackupex --defaults-file=/GMDBase/zhou/gs1/copy.cnf --copy-back /GMDBase/zhou/gs1/full
+[auto_restore.pl(52)][2017-11-23 11:07:30] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 11:07:30] 	| main::main
+[TIPS][2017-11-23 11:08:27] Fail:service mysql restart
+[auto_restore.pl(52)][2017-11-23 11:08:27] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 11:08:27] 	| main::main
+[TIPS][2017-11-23 11:19:27] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 11:19:27] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 11:19:27] 	| main::main
+[TIPS][2017-11-23 11:20:31] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 11:20:31] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 11:20:31] 	| main::main
+[auto_restore.pl(52)][2017-11-23 11:22:30] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 11:22:30] 	| main::main
+[auto_restore.pl(52)][2017-11-23 11:23:14] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 11:23:14] 	| main::main
+[TIPS][2017-11-23 11:23:39] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 11:23:39] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 11:23:39] 	| main::main
+[TIPS][2017-11-23 11:23:54] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 11:23:54] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 11:23:54] 	| main::main
+[auto_restore.pl(52)][2017-11-23 11:24:50] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 11:24:50] 	| main::main
+[TIPS][2017-11-23 11:26:28] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 11:26:28] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 11:26:28] 	| main::main
+[TIPS][2017-11-23 11:52:41] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 11:52:41] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 11:52:41] 	| main::main
+[auto_restore.pl(117)][2017-11-23 11:57:25] innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock at auto_restore.pl line 117.
+[auto_restore.pl(51)][2017-11-23 11:57:25] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 11:57:25] 	| main::main
+[auto_restore.pl(52)][2017-11-23 12:02:00] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:02:00] 	| main::main
+[TIPS][2017-11-23 12:02:51] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 12:02:51] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:02:51] 	| main::main
+[TIPS][2017-11-23 12:03:20] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 12:03:20] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:03:20] 	| main::main
+[TIPS][2017-11-23 12:05:55] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 12:05:55] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:05:55] 	| main::main
+[auto_restore.pl(52)][2017-11-23 12:14:46] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:14:46] 	| main::main
+[TIPS][2017-11-23 12:15:02] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 12:15:02] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:15:02] 	| main::main
+[TIPS][2017-11-23 12:15:13] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 12:15:13] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:15:13] 	| main::main
+[TIPS][2017-11-23 12:15:26] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 12:15:26] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:15:26] 	| main::main
+[auto_restore.pl(107)][2017-11-23 12:16:17] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 12:16:17] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 12:16:17] 	| main::main
+[auto_restore.pl(52)][2017-11-23 12:16:17] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:16:17] 	| main::main
+[auto_restore.pl(52)][2017-11-23 12:16:40] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:16:40] 	| main::main
+[auto_restore.pl(52)][2017-11-23 12:17:14] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:17:14] 	| main::main
+[TIPS][2017-11-23 12:17:27] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 12:17:27] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:17:27] 	| main::main
+[auto_restore.pl(52)][2017-11-23 12:18:41] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:18:41] 	| main::main
+[auto_restore.pl(52)][2017-11-23 12:19:01] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:19:01] 	| main::main
+[TIPS][2017-11-23 12:19:18] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 12:19:18] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:19:18] 	| main::main
+[TIPS][2017-11-23 12:19:30] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 12:19:30] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:19:30] 	| main::main
+[TIPS][2017-11-23 12:21:20] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/zhou/gs1/full --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 12:21:20] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 12:21:20] 	| main::main
+[auto_restore.pl(52)][2017-11-23 13:35:30] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 13:35:30] 	| main::main
+[TIPS][2017-11-23 13:36:02] Fail:systemctl mysql restart
+[auto_restore.pl(52)][2017-11-23 13:36:02] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 13:36:02] 	| main::main
+[TIPS][2017-11-23 13:36:29] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 13:36:29] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 13:36:29] 	| main::main
+[TIPS][2017-11-23 13:37:19] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 13:37:19] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 13:37:19] 	| main::main
+[TIPS][2017-11-23 13:39:01] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 13:39:01] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 13:39:01] 	| main::main
+[TIPS][2017-11-23 13:39:14] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 13:39:14] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 13:39:14] 	| main::main
+[TIPS][2017-11-23 13:45:54] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/zhou/gs1/full --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 13:45:54] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 13:45:54] 	| main::main
+[TIPS][2017-11-23 13:47:54] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 13:47:54] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 13:47:54] 	| main::main
+[TIPS][2017-11-23 13:48:43] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 13:48:43] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 13:48:43] 	| main::main
+[TIPS][2017-11-23 13:50:44] Fail:systemctl mysql restart
+[auto_restore.pl(52)][2017-11-23 13:50:44] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 13:50:44] 	| main::main
+[TIPS][2017-11-23 13:51:02] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 13:51:02] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 13:51:02] 	| main::main
+[TIPS][2017-11-23 13:54:11] Fail:systemctl mysql restart
+[auto_restore.pl(52)][2017-11-23 13:54:11] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 13:54:11] 	| main::main
+[TIPS][2017-11-23 13:54:18] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338500_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 13:54:18] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 13:54:18] 	| main::main
+[TIPS][2017-11-23 13:55:25] Fail:systemctl mysql restart
+[auto_restore.pl(52)][2017-11-23 13:55:25] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 13:55:25] 	| main::main
+[TIPS][2017-11-23 13:56:00] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/zhou/gs1/full/ --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc/ --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 13:56:00] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 13:56:00] 	| main::main
+[TIPS][2017-11-23 14:00:27] Fail:systemctl mysql restart
+[auto_restore.pl(52)][2017-11-23 14:00:27] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 14:00:27] 	| main::main
+[auto_restore.pl(52)][2017-11-23 14:01:51] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 14:01:51] 	| main::main
+[TIPS][2017-11-23 14:02:03] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/zhou/gs1/full --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 14:02:03] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 14:02:03] 	| main::main
+[TIPS][2017-11-23 14:04:06] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log-only /GMDBase/zhou/gs1/full --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc --user=root --password=123456 --port=3306 --socket=/var/lib/mysql/mysql.sock
+[auto_restore.pl(52)][2017-11-23 14:04:07] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 14:04:07] 	| main::main
+[TIPS][2017-11-23 14:07:04] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/zhou/gs1/full --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc
+[auto_restore.pl(52)][2017-11-23 14:07:04] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 14:07:04] 	| main::main
+[auto_restore.pl(52)][2017-11-23 14:10:05] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 14:10:05] 	| main::main
+[auto_restore.pl(52)][2017-11-23 14:10:42] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 14:10:42] 	| main::main
+[TIPS][2017-11-23 14:11:30] Fail:innobackupex --defaults-file=/etc/mysql.cnf --apply-log /GMDBase/zhou/gs1/full --incremental-dir=/GMDBase/zhou/gs1/1511338517_inc
+[auto_restore.pl(52)][2017-11-23 14:11:30] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 14:11:30] 	| main::main
+[auto_restore.pl(52)][2017-11-23 14:14:09] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 14:14:09] 	| main::main
+[auto_restore.pl(52)][2017-11-23 14:14:36] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 14:14:36] 	| main::main
+[auto_restore.pl(52)][2017-11-23 14:15:08] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 14:15:08] 	| main::main
+[auto_restore.pl(52)][2017-11-23 14:15:39] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 14:15:39] 	| main::main
+[auto_restore.pl(52)][2017-11-23 14:18:10] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 14:18:10] 	| main::main
+[auto_restore.pl(52)][2017-11-23 14:34:20] ------Done!------ at auto_restore.pl line 52.
+[auto_restore.pl(21)][2017-11-23 14:34:21] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:34:50] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:34:50] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:34:50] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:35:00] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:35:00] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:35:00] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:35:10] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:35:10] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:35:10] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:35:20] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:35:20] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:35:20] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:35:30] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:35:30] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:35:30] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:35:40] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:35:40] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:35:40] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:35:50] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:35:50] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:35:50] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:36:00] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:36:00] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:36:00] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:36:10] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:36:10] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:36:10] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:36:20] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:36:20] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:36:20] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:36:30] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:36:30] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:36:30] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:36:40] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:36:40] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:36:40] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:36:50] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:36:50] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:36:50] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:37:00] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:37:00] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:37:00] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:37:10] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:37:10] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:37:10] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:37:20] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:37:20] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:37:20] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:37:30] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:37:30] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:37:30] 	| main::main
+[auto_restore.pl(107)][2017-11-23 14:37:40] Use of uninitialized value $full_file in exists at auto_restore.pl line 107.
+[auto_restore.pl(51)][2017-11-23 14:37:40] 	| main::dbrebuild
+[auto_restore.pl(21)][2017-11-23 14:37:40] 	| main::main
