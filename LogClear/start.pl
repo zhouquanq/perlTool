@@ -41,8 +41,8 @@ sub main
         foreach my $section(@{$cfg_ini}) {
             if ($section->{'name'} eq "mysql_info") {
                 dbrebuild($section);
-                die "-----Done!------";
-                # sleep(10);
+                # die "-----Done!------";
+                sleep(3);
             }
         }
 
@@ -83,6 +83,17 @@ sub dbrebuild
         my @newfiles = ();
 
         foreach my $filename(@files) {
+            # 解压
+            if ($filename =~ /(\d+).lzo/) {
+                # return if logcmd("/usr/bin/lzop -x -f $logpath/$filename -p$logpath");
+                system("/usr/bin/lzop -x -f $logpath/$filename -p$logpath");
+                system("rm -f $logpath/$filename");
+            }
+            
+        }
+
+
+        foreach my $filename(@files) {
             # 把没处理的文件寻到newfiles
             if ($filename =~ /sgland.log_(\d+)/ && !exists($processed_files{$filename})) {
                 push @newfiles, $filename if $1 > $newest_full;
@@ -98,23 +109,31 @@ sub dbrebuild
             # 连接数据库
             my $dbh = DBI->connect($dsn, $dbuser, $dbpass ) or die $DBI::errstr;
             open(FILE, "$logpath/$targetfile");
+            print "now: Being dealt with $targetfile\n";
             while (<FILE>) {
                 # if($_ =~ /([1-9]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[1-2][0-9]|3[0-1]) ([0-2]?\d):[0-5]\d:[0-5]\d)(.+)rid":(\d+)(.+)id":(\d+)(.+)do":"(.+)",(.+)infoId":1,(.+)num":(.+)}}/){
-                if($_ =~ /([1-9]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[1-2][0-9]|3[0-1]) ([0-2]?\d):[0-5]\d:[0-5]\d)(.+)rid":(\d+)(.+)id":(\d+)(.+)level":(\d+)(.+)vip":(\d+)(.+)do":"(.+)",/){
+                
+                if($_ =~ /([1-9]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[1-2][0-9]|3[0-1]) ([0-2]?\d):[0-5]\d:[0-5]\d)(.+)rid":(\d+)(.+)id":(\d+)(.+)level":(\d+)(.+)vip":(\d+)(.+)do":"([ _A-Za-z]+)"/){
                     # print "$_";
                     # print "*****" , "\n", $1 , "  ",  $6 , "  ",  $8 , "  " ,$10 , "  ",$12 , "  ",  $14  ,"\n";
+                    # print "$14" ,"\n";
                     my $date = $1;
                     my $rid = $6;
                     my $uid = $8;
                     my $level = $10;
                     my $vipLevel = $12;
                     my $do = $14;
-
-                    next if $_ !~ /"resource":(.+)}/;
-                    my $resource = $1;
-                    $resource = defined($resource) ? $resource : "";
-                    # print ("INSERT INTO lg_operation_log (rid,uid,level,vipLevel,do,resource,date) values ($rid,$uid,$level,$vipLevel,'$do','$resource','$date';" , "\n");
-                    my $sth = $dbh->prepare("INSERT INTO lg_operation_log (rid,uid,level,vipLevel,do,resource,date) values ($rid,$uid,$level,$vipLevel,'$do','$resource','$date');");
+                    my $resource = '';
+                    my $param = 0;
+                    if($_ =~ /"resource":(.+)}/){
+                    	$resource = $1;
+                    }
+                    if($_ =~ /"param":(\d+)/){
+                    	$param = $1;
+                    }
+                    # print "$param" , "\n";
+                    # print ("INSERT INTO lg_operation_log (rid,uid,level,vipLevel,do,param,resource,date) values ($rid,$uid,$level,$vipLevel,'$do',$param,'$resource','$date';" , "\n");
+                    my $sth = $dbh->prepare("INSERT INTO lg_operation_log (rid,uid,level,vipLevel,do,param,resource,date) values ($rid,$uid,$level,$vipLevel,'$do',$param,'$resource','$date');");
                     $sth->execute() or die $DBI::errstr;
                     $sth->finish();
                     $dbh->commit;
