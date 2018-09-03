@@ -1,0 +1,3 @@
+[auto_remove.pl(103)][2018-09-03 15:28:45] unlink /mnt/data/GMAutoUpload/gs_log/gs10033/2018070316.lzo failed: No such file or directory at auto_remove.pl line 103.
+[auto_remove.pl(93)][2018-09-03 15:28:45] 	| main::traversal_dir_delete_log
+[auto_remove.pl(60)][2018-09-03 15:28:45] 	| main::traversal_dir_delete_log
